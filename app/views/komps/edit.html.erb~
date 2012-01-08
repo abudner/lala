@@ -39,11 +39,15 @@
         
         <div id="templatemo_2columns">
               <div class="trolo">
-<div class="sitename"><span>ZŁÓŻ KOMPUTER ٿ </span></div>
-           <%= render 'form' %>
+<div class="sitename"><span>EDYTUJ KOMPUTER ٿ </span></div>
+          <%= render 'form' %>
+
+
+
 <br/>
 <br/>
- <div class="readmore_white"><%= link_to 'Strona Główna', komps_path %></div>                 
+  <div class="readmore_white"><%= link_to 'ٿ - Pokaż', @komp %></div
+ <div class="readmore_whit"><%= link_to 'Strona Główna', komps_path %></div>                 
 		
 </div>
 </div>
@@ -73,6 +77,8 @@
 
 
 </div>
+
+
 
 
 

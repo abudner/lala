@@ -5,14 +5,11 @@
     	<div class="sitename_panel">
         	<div class="sitename">Konfig<span>urator</span></div>
         </div>
+       
         
-        <div class="livechat_panel">
-        	<a href="#"><img src="../assets/templatemo_livechat.gif" alt="livechat" /></a>
-        </div>
-        
-         <div class="freecall_panel">
-        	<div class="bigfont">Sales &amp; Support</div>
-            <div class="phoneno">Toll Free <span>(100) 200-3000</span></div>
+        <div class="log">
+        	<a href="#"><img src="../../assets/twitter.png" alt="twitter" /></a>
+          	<a href="#"><img src="../../assets/facebook.png" alt="facebook" /></a>
         </div>
         
     </div>
@@ -27,7 +24,7 @@
        	<div id="templatemo_menu">
             <div class="menuleft"></div>
                  <ul>
-                    <li><a href="index.html">Home</a></li>
+                    <li><%= link_to 'Strona Główna', komps_path %></li>
                     <li><%= link_to 'Złóż Komputer', new_komp_path %></li>
                     
                 </ul>
@@ -149,7 +146,7 @@
 
 
     <div class="readmore_white"><%= link_to 'Edit', edit_komp_path(@komp) %></div>
-    <div class="readmore_white"><%= link_to 'Back', komps_path %></div>
+    <div class="readmore_whit"><%= link_to 'Back', komps_path %></div>
 
           <br/>
          <br/>

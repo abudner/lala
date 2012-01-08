@@ -75,10 +75,11 @@ h4 {
 }
 
 .readmore_white a{
-	clear: both;
+	
 	display: block;
 	width: 100px;
 	height: 22px;
+      
 	padding-top: 3px;
 	background: url(../assets/templatemo_more_white.gif) no-repeat;
 	color: #000000;
@@ -86,6 +87,19 @@ h4 {
 	text-align: center;
 }
 
+.readmore_whit a{
+	
+	display: block;
+	width: 100px;
+	height: 22px;
+        margin-top: -25px;
+        margin-left:120px;
+	padding-top: 3px;
+	background: url(../assets/templatemo_more_white.gif) no-repeat;
+	color: #000000;
+	text-decoration: none;
+	text-align: center;
+}
 
 #templatemo_container {
 	margin: 0px auto;
@@ -148,7 +162,19 @@ h4 {
 	width: 110px;
 }
 
+.livechat_panel img{
+	border: none;
+}
 
+.trolo{
+
+margin:44px;
+}
+
+.log{
+
+float:right;
+}
 
 /* end of top */
 

@@ -39,7 +39,7 @@
         
         <div id="templatemo_2columns">
               <div class="trolo">
-<div class="sitename"><span>ZŁÓŻ KOMPUTER ٿ </span></div>
+<div class="sitename"><span>ZŁÓŻ KOMPUTER ♡ </span></div>
            <%= render 'form' %>
 <br/>
 <br/>
