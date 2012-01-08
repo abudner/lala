@@ -1,0 +1,165 @@
+
+<div id="templatemo_container">
+
+	<div id="templatemo_top">
+    	<div class="sitename_panel">
+        	<div class="sitename">Konfig<span>urator</span></div>
+        </div>
+        
+        <div class="livechat_panel">
+        	<a href="#"><img src="../assets/templatemo_livechat.gif" alt="livechat" /></a>
+        </div>
+        
+         <div class="freecall_panel">
+        	<div class="bigfont">Sales &amp; Support</div>
+            <div class="phoneno">Toll Free <span>(100) 200-3000</span></div>
+        </div>
+        
+    </div>
+
+    <div class="templatemo_content_top"></div>
+    <div id="templatemo_content">
+	   <div class="banner">
+        	
+        </div>
+    	
+        
+       	<div id="templatemo_menu">
+            <div class="menuleft"></div>
+                 <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><%= link_to 'Złóż Komputer', new_komp_path %></li>
+                    
+                </ul>
+            <div class="menuright"></div>    	
+        </div>
+        
+      	<div id="templatemo_features">
+						<h1>PC</h1>
+            <div class="titlerow">
+                <div class="name_column">Nazwa</div>
+                <div class="plan_column">Wybrane Części</div>
+                
+                <div class="cleaner"></div>
+            </div>
+              
+            <h4>Główne Części</h4>
+            <div class="subrow_odd">
+                <div class="name_column">PŁYTA</div>
+                <div class="plan_column"><%= @komp.plyta %></div>
+             
+                <div class="cleaner"></div>
+			</div>
+            <div class="subrow_even">
+                <div class="name_column">PROCESOR</div>
+                <div class="plan_column"><%= @komp.plyta %></div>
+               
+                <div class="cleaner"></div>
+            </div>
+            <div class="subrow_odd">
+                <div class="name_column">PAMIĘĆ</div>
+                <div class="plan_column"><%= @komp.pamiec %></div>
+               
+                <div class="cleaner"></div>
+            </div>                          
+
+            <div class="subrow_even">
+                <div class="name_column">KARTA GRAFICZNA</div>
+              <div class="plan_column"><%= @komp.karta_graf %></div>
+               
+                <div class="cleaner"></div>
+            </div>
+
+            <div class="subrow_odd">
+                <div class="name_column">DYSK</div>
+                <div class="plan_column"><%= @komp.dysk %></div>
+               
+                <div class="cleaner"></div>
+            </div>
+              <div class="subrow_even">
+                <div class="name_column">NAPĘD</div>
+                <div class="plan_column"><%= @komp.naped %></div>
+              
+                <div class="cleaner"></div>
+            </div>
+            
+            <div class="subrow_odd">
+                <div class="name_column">KARTA MUZYCZNA</div>
+                <div class="plan_column"><%= @komp.karta_muz %></div>
+
+                <div class="cleaner"></div>
+            </div>
+          
+            <div class="subrow_even">
+                <div class="name_column">ZASILACZ</div>
+                <div class="plan_column"><%= @komp.zasilacz %></div>
+                <div class="cleaner"></div>
+            </div>
+
+
+          <br/>
+          <br/>
+                        
+            <h4>Dodatkowe Części</h4>
+            <div class="subrow_odd">
+                <div class="name_column">PAMIĘĆ 2</div>
+                <div class="plan_column"><%= @komp.pamiec2 %></div>
+       
+                <div class="cleaner"></div>
+			</div>
+            <div class="subrow_even">
+                <div class="name_column">DYSK 2</div>
+                <div class="plan_column"><%= @komp.dysk2 %></div>
+                
+                <div class="cleaner"></div>
+            </div>
+            <div class="subrow_odd">
+                <div class="name_column">DYSK 3</div>
+                <div class="plan_column"><%= @komp.dysk3 %></div>
+               
+                <div class="cleaner"></div>
+            </div>                          
+
+            <div class="subrow_even">
+                <div class="name_column">OBUDOWA</div>
+                <div class="plan_column"><%= @komp.obudowa %></div>
+                
+                <div class="cleaner"></div>
+            </div>
+
+           <div class="subrow_odd">
+                <div class="name_column">MYSZ</div>
+                <div class="plan_column"><%= @komp.mysz %></div>
+                
+                <div class="cleaner"></div>
+            </div>
+            <div class="subrow_even">
+                <div class="name_column">KLAWIATURA</div>
+                <div class="plan_column"><%= @komp.klawiatura %></div>
+              
+                <div class="cleaner"></div>
+            </div>                          
+
+            
+              
+			<br />
+                        <br />
+
+
+
+
+    <div class="readmore_white"><%= link_to 'Edit', edit_komp_path(@komp) %></div>
+    <div class="readmore_white"><%= link_to 'Back', komps_path %></div>
+
+          <br/>
+         <br/>
+<br/>
+		</div>
+        
+    </div>
+    <div class="templatemo_content_bottom"></div>
+    	<div id="templatemo_footer">
+		<a href="#">Home</a> | <a href="#">Hosting Features</a> | <a href="#">Help Center</a> | <a href="#">Resellers</a> | <a href="#"> Our Company</a> | <a href="#">Contact Us</a><br />
+        Copyright © 2048 <a href="#"><b>Your Company Name</b></a> | <a href="http://www.iwebsitetemplate.com" target="_parent">Website Templates</a> by <a href="http://www.templatemo.com" target="_blank"><b>templatemo.com</b></a></div>
+</div>
+

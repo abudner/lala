@@ -1,0 +1,104 @@
+
+<div id="templatemo_container">
+<div id="templatemo_top">
+    	<div class="sitename_panel">
+        	<div class="sitename">Konfig<span>urator</span></div>
+      </div>
+        
+        <div class="log">
+        	<a href="#"><img src="../../assets/twitter.png" alt="twitter" /></a>
+          	<a href="#"><img src="../../assets/facebook.png" alt="facebook" /></a>
+        </div>
+        
+        
+        
+    </div>
+    
+    
+    <div class="templatemo_content_top"></div>
+    <div id="templatemo_content">
+	   
+    	<div class="banner">
+              
+			
+        </div>
+        
+       	<div id="templatemo_menu">
+            <div class="menuleft"></div>
+                <ul> 
+                    
+                    <li><%= link_to 'Strona Główna', komps_path %></li>
+                    <li><%= link_to 'Złóż Komputer', new_komp_path %></li>
+                    
+                </ul>
+            <div class="menuright"></div>    	
+        </div>
+        
+      <div id="templatemo_boxarea">
+
+        <% @komps.each do |komp| %>
+        <div class="box1">
+          <div class="box1top">
+            <h2>PC</h2>
+          </div>
+                <div class="body">
+                   
+                        <ul>
+                            <li>Płyta : <%= komp.plyta %></li>
+                            <li>Procesor : <%= komp.procesor %></li>
+                            <li>Pamięć : <%= komp.pamiec %></li>  
+                            <li>Karta graficzna : <%= komp.karta_graf %></li>
+                            
+                    
+
+ 
+                        </ul>
+
+                         
+                            <div class="readmore_blac"> <%= link_to 'EDYTUJ', edit_komp_path(komp) %></div>
+<div class="readmore_blac"><%= link_to 'USUŃ', komp, confirm: 'JESTEŚ PEWNIEN?', method: :delete %></div> 
+</br>
+</br>
+                        <div class="readmore_black"><%= link_to 'POKAŻ WIECEJ', komp %> </div>
+				</div>
+                <div class="boxbottom">
+                	
+                </div>
+        </div>
+            <% end %>
+            
+        </div>
+        
+        <div id="templatemo_2columns">
+        
+                 
+		</div>
+        
+    </div>
+    <div class="templatemo_content_bottom"></div>
+    
+    	<div id="templatemo_footer">
+		<a href="#">Home</a> | <a href="#">Hosting Features</a> | <a href="#">Help Center</a> | <a href="#">Resellers</a> | <a href="#"> Our Company</a> | <a href="#">Contact Us</a><br />
+        Copyright © 2048 <a href="#"><b>Your Company Name</b></a> | <a href="http://www.iwebsitetemplate.com" target="_parent">Website Templates</a> by <a href="http://www.templatemo.com" target="_blank"><b>templatemo.com</b></a></div>
+   
+    
+</div>
+
+
+        
+
+
+
+
+
+
+
+
+<br />
+
+
+
+</div>
+
+
+

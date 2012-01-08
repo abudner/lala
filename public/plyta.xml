@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<success>
+    <items>
+        <item>
+            <id>8083231252378822862</id>
+            <name>ASUS P5G41T-M LX</name>
+            <shop_count>75</shop_count>
+            <offer_count>143</offer_count>
+            <price_min>156,73</price_min>
+            <price_max>647,30</price_max>
+            <price_avg>199,72</price_avg>
+            <url>http://www.nokaut.pl/plyty-glowne/asus-p5g41t-m-lx.html</url>
+<opis>Obsługa procesorów Intel Core2 Extreme / Core2 Quad / Core2 DuoPłyta główna obsługuje procesory Intel LGA775 Core 2 Extreme / Core 2 Quad/ Core 2, które idealnie nadają się do multitaskingu, multimediów i gier komputerowych dzięki częstotliwości magistrali 1333/ 1066/ 800 MHz. Obsługuje również procesory Intel wykonane w technologii 45nm. Chipset Intel G41Chipset Intel G41 Express został zaprojektowany do obsługi dwukanałowej architektury pamięci DDR2 1066 (przetaktowanie)/800/667 MHz, magistrali FSB 1333/1066/800 MHz, magistrali PCIe 1.1 oraz wielordzeniowych procesorów. Zastosowana technologia Intel Fast Memory Access optymalizuje wykorzystanie dostępnej przepustowości pamięci oraz zmniejsza opóźnienia w dostępie do pamięci. Low EMI - niskie zakłóceniaSpecjalna konstrukcja o niskim promieniowaniu chroni Cię przed szkodliwym polem elektromagnetycznym, eliminując połowę promieniowania.1. System Radiation Deduction (redukcji radiacji) minimalizuje szkodliwe promieniowanie elektrostatyczne dzięki specjalnemu obwodowi usuwającemu ładunki elektryczne.2. System Radiation Moat (zapory radiacyjnej) efektywnie blokuje promieniowanie, chroniąc przed rozprzestrzenianiem się wyładowania. Obsługa dwukanałowych pamięci DDR3 1333 (O.C.)/1066Ta płyta główna obsługuje pamięć DDR3 o transferze danych z częstotliwościami 1333 (O.C.) / 1066 MHz, co zapewnia doskonałą wydajność grafiki 3D i innych aplikacji mocno wykorzystujących pamięć. ASUS EPUModuł EPU (Energy Processing Unit) firmy ASUS zapewnia oszczędne zarządzenie energią poprzez wykrywanie obciążeń systemowych i inteligentne przydzielanie zasilania w czasie rzeczywistym. Automatycznie dobiera odpowiednie napięcie, pozwalając zaoszczędzić energię i pieniądze. Turbo KeyASUS Turbo Key umożliwia Ci zamianę przycisku zasilania w komputerze w fizyczny włącznik przetaktowania. Po dokonaniu prostej konfiguracji przycisk Turbo pozwala zwiększyć wydajność bez przerywania wykonywanej pracy czy gier. Wystarczy tylko jedno jego naciśnięcie! ESDChroń swój komputer strażnikami ESD. Wyładowania elektrostatyczne (ESD) mogą wystąpić podczas podłączania lub odłączania dowolnych urządzeń USB, powodując uszkodzenie komputera. Strażnicy ESD blokują napięcia elektrostatyczne i odprowadzają większość prądów ESD, co w efekcie daje bezpieczniejszy system. ASUS Q-FanTechnologia Q-FAN firmy ASUS automatycznie i w sposób inteligentny ustawia prędkość wentylatora procesora dostosowując ją do obciążenia systemu i temperatury dając użytkownikom spokojne i ciche środowisko pracy. ASUS CrashFree BIOS3ASUS CrashFree BIOS 3 to narzędzie umożliwiające przywracanie uszkodzonego pliku BIOSu za pomocą dołączonej płyty DVD lub dysku USB zawierającego najnowszą wersję BOSu. EZ Flash2ASUS EZ Flash 2 umożliwia aktualizację BIOSu bez potrzeby korzystania z programów uruchamianych w systemie operacyjnym. C.P.R. (przywracanie parametrów CPU)BIOS C.P.R. automatycznie przywraca domyślne ustawienia procesora, gdy dojdzie do zawieszenia systemu spowodowanego błędem przetaktowywania. C.P.R. eliminuje potrzebę otwierania obudowy i ręcznego zerowania ustawień RTC. Wystarczy ponownie uruchomić komputer, a BIOS automatycznie przywróci domyśle ustawienia procesora.* Jeśli wystąpił błąd przetaktowania, naciśnij przycisk zasilania i uruchom ponownie komputer. Przygotowany na ErPTa płyta główna jest przystosowana do uregulowań Unii Europejskiej związanych z produktami wykorzystującymi energię (ErP). Przepisy ErP wymagają, by produkty spełniały pewne kryteria sprawności energetycznej przy poborze mocy. Jest to zgodne z wizją ASUS-a tworzenia produktów przyjaznych środowisku i efektywnych energetycznie dzięki odpowiedniej konstrukcji i innowacjom, które redukują ślad węglowy, zmniejszając tym samym oddziaływanie na środowisko. ASUS MyLogo2Funkcja ta pozwala zamienić dowolne ulubione zdjęcie na 256-kolorowe logo wyświetlane podczas uruchamiania systemu. « zwiń opis </opis>
+<socket>Socket 775</socket>
+<typ_pamieci>DDR3</typ_pamieci>
+            <image_mini>http://img.nokaut.pl/bdk/90/5/177385.jpg</image_mini>
+            <image_medium>http://img.nokaut.pl/bdk/130/5/177385.jpg</image_medium>
+            <image_large>http://img.nokaut.pl/bdk/500/5/177385.jpg</image_large>
+            <rate>5.00</rate>
+            <thumbnail>http://img.nokaut.pl/bdk/90/5/177385.jpg</thumbnail>
+            <image>http://img.nokaut.pl/bdk/130/5/177385.jpg</image>
+        </item>
+        <item>
+            <id>3772230422915540214</id>
+            <name>EVGA Classified SR-2 270-WS-W555</name>
+            <shop_count>1</shop_count>
+            <offer_count>1</offer_count>
+            <price_min>2750,00</price_min>
+            <price_max>2750,00</price_max>
+            <price_avg>2750,00</price_avg>
+            <url>http://www.nokaut.pl/plyty-glowne/evga-classified-sr-2-270-ws-w555.html</url>
+<opis>Socket: s. 1366 Producent Chipsetu: Intel Typ chipsetu: Intel 5520/ ICH10R Chipset Format płyty: HPTX Częstotliwość szyny Bus speed : 133 MHz Ilość złącz PCI-E x16: 7 Ilośc łącz PCI-E x1: 0 Ilość złącz PCI: 0 Rodzaj pamięci : DDR III Częstotliwość szyny pamięci: 1333+/1066/ Ilość gniazd pamięci operacyjnej: 6 Tryb TRIPLE CHANNEL : TAK Ilość złącz dla urządzeń SATA : 8 Obsługa RAID dla dysków SATA II: TAK Zintegrowana karta dźwiękowa: 7.1 kanałów Zintegrowana karta sieciowa: 2 x 10/100/1000Mb Złącza USB: 12 szt Obsługa procesorów Xeon 5500/5600 « zwiń opis </opis>
+<socket>Socket 1366</socket>
+<typ_pamieci>DDR3</typ_pamieci>
+            <image_mini>http://img.nokaut.pl/p/7d/ee/7deec1dc21c820e397529825c8517a7490x90.jpg</image_mini>
+            <image_medium>http://img.nokaut.pl/p/7d/ee/7deec1dc21c820e397529825c8517a74130x130.jpg</image_medium>
+            <image_large>http://img.nokaut.pl/p/7d/ee/7deec1dc21c820e397529825c8517a74500x500.jpg</image_large>
+            <rate>0.00</rate>
+            <thumbnail>http://img.nokaut.pl/p/7d/ee/7deec1dc21c820e397529825c8517a7490x90.jpg</thumbnail>
+            <image>http://img.nokaut.pl/p/7d/ee/7deec1dc21c820e397529825c8517a74130x130.jpg</image>
+        </item>
+        <item>
+            <id>1619986931557417720</id>
+            <name>ASUS Maximus Extreme</name>
+            <shop_count>61</shop_count>
+            <offer_count>82</offer_count>
+            <price_min>1215,57</price_min>
+            <price_max>1679,00</price_max>
+            <price_avg>1466,01</price_avg>
+            <url>http://www.nokaut.pl/plyty-glowne/asus-maximus-extreme.html</url>
+<opis>Tabela parametryczna Gniazdo procesora LGA1155 Typ procesora Intel Core i5 Intel Core i3 Intel Core i7 Zintegrowany procesor nie Producent chipsetu Intel Typ chipsetu Intel? P67 Chipset Express Rodzaj pamięci DDR3 Liczba gniazd DDR3 4 szt. Częstotliwość szyny pamięci 1333 MHz 1600 MHz Max. wielkość pamięci 32 GB Złącza PCI 4 szt. Złącza PCI-E 16x ver. 2.0 Brak Złącza PCI-E 8x Brak Złącza PCI-E 4x 1 szt. Złącza PCI-E 1x 1 szt. Złącze AGP Nie Maksymalna ilość urządzeń SATA 8 RAID tak Szczegółowe dane o interfejsach dysków/napędów Intel? P67 Express Chipset 2 portów SATA 6.0 Gb/s (czerwone) 4 porty SATA 3 Gb/s (szare) Intel? Rapid Storage Technology obsługą RAID 0,1,5,10 Marvell? 9182 PCIe SATA6Gb/s controller 2 xSATA 6Gb/s ports (Red) kontroler JMicron? 362 2 porty zewnętrznego SATA 3 Gb/s z tyłu (SATA On-the-Go) * Ze względu na ograniczenia Windows XP/ Vista macierz RAID o całkowitej pojemności przekraczającej 2 TB nie może być ustawiona jako dysk rozruchowy. Macierz RAID ponad 2 TB może być tylko dyskiem na dane. Zintegrowana karta graficzna nie Karta dźwiękowa 8-kanałowa kodek audio wysokiej jakości ALC889 - ochrona zawartości warstwy audio płyt Blu-ray - obsługuje wykrywanie wtyczki, multi-streaming, zmianę przeznaczenia gniazda na panelu przednim - obsługuje 1 optyczne wyjście S/PDIF na tylnym panelu gniazd we/wy Interfejs sieciowy 2 x 10/100/1000 Mbit/s Złącza USB na tylnym panelu 8 Złącza USB do wyprowadzenia z płyty 10 Liczba portów USB 3.0 10 FireWire (IEEE 1394) nie Port COM Nie Port LPT Nie Interfejsy na tylnym panelu 1 x Port combo PS/2 klawiatura/myszka 2 x zewnętrzne gniazdo SATA 2 gniazda RJ-45 (sieć LAN) 8 x USB 3.0/2.0 1 portów USB 2.0/1.1 (również dla ROG Connect) 1 wyjście interfejsu S/PDIF (koncentryczne) Zestaw we/wy 8 -kanałowej karty dźwiękowej 1 Przełącznik ?Clear CMOS? (kasowanie zawartości BIOS) 1 przełącznik wł./wył. ROG Connect 1 przełącznik RC Bluetooth Złącza dostępne na płycie 1 x USB 3.0/2.0 connector(s) (czerwone) obsługuje dodatkowe 2 porty USB 3.0 4 x USB 2.0/1.1 connector(s) obsługują dodatkowych 8 portów USB 2.0 4 x SATA 6.0Gb/s gniazda (czerwone) 1 złącze wentylatora procesora 3 złącza wentylatorów obudowy 1 złącze wentylatora zasilacza gniazda opcjonalnych wentylatorów 1 x Power-on przełącznik 1 x Reset przełącznik 1 Konektor wyjścia interfejsu S/PDIF 1 x 24-pin ATX Złącze zasilania 1 x 8-pin ATX 12V Power connector 1 x Front panel audio connector 1 x System Panel connector 7 punktów pomiarowych ProbeIt 3 gniazda czujników termicznych 1 gniazdo włącznika kasowania CMOS 2 gniazda EZ Plug (4-stykowe gniazda zasilania Molex) 1 łącznik RC Bluetooth 1 przełącznik trybu LN2 1 przełącznik Q_Reset 1 przycisk Go 1 przełącznik BIOS-u 1 gniazdo światła ROG Funkcje specjalne CPU Level Up MemOK! Przełączniki na płycie: zasilanie / reset / kasuj CMOS (z tyłu) Q-Fan Plus ASUS Fan Xpert ASUS Q-LED (kontrolki LED dla CPU, DRAM, VGA, urządzenia rozruchowego) ASUS Q-Connector ASUS Q-Shield ASUS Q-Slot ASUS Q-DIMM ASUS EZ Flash 2 ASUS CrashFree BIOS 3 ASUS MyLogo 2 Bios 32 Mb pamięci Flash ROM , EFI AMI BIOS, PnP, DMI2.0, WfM2.0, SM BIOS 2.5, ACPI2.0a Multi-Language BIOS Format płyty ATX Wymiary 30.5 cm x 26.9 cm Akcesoria w zestawie 2 x SATA 3.0Gb/s signal cables (2-in-1) 2 x SATA 6.0Gb/s signal cables (2-in-1) 1 x Q-Connecor Kit (2-in-1) Instrukcja obsługi 1 2-port USB2.0 module 1 Osłonka portów I/O 1 kabel ROG Connect 1 zestaw kabli ProbeIt 1 zestaw kabli czujnika termicznego 1 mostek 3-Way SLI 1 kabel SLI 1 kabel Crossfire 1 zestaw opasek do kabli 1 naklejka z motywem ROG 1 etykieta kabli ROG (12 w 1) 1 karta RC Bluetooth 1 przewodnik po wyjątkowych funkcjach ROG « zwiń opis </opis>
+<socket>Socket 1155</socket>
+<typ_pamieci>DDR3</typ_pamieci>
+            <image_mini>http://img.nokaut.pl/bdk/90/3/77213.jpg</image_mini>
+            <image_medium>http://img.nokaut.pl/bdk/130/3/77213.jpg</image_medium>
+            <image_large>http://img.nokaut.pl/bdk/500/3/77213.jpg</image_large>
+            <rate>0.00</rate>
+            <thumbnail>http://img.nokaut.pl/bdk/90/3/77213.jpg</thumbnail>
+            <image>http://img.nokaut.pl/bdk/130/3/77213.jpg</image>
+        </item>
+        <item>
+            <id>5726766340764273721</id>
+            <name>GIGABYTE GeForce GTS 450 1024MB DDR5/128bit DVI/HDMI PCI-E</name>
+            <shop_count>38</shop_count>
+            <offer_count>38</offer_count>
+            <price_min>439,00</price_min>
+            <price_max>530,93</price_max>
+            <price_avg>464,02</price_avg>
+            <url>http://www.nokaut.pl/karty-graficzne/gigabyte-geforce-gts-450-1024mb-ddr5-128bit-dvi-hdmi-pci-e.html</url>
+<opis>• Nazwa producenta karty: GIGABYTE GTS 450 • Nazwa producenta chipsetu: nVidia • Typ Chipsetu: GeForce GTS 450 • RAMDAC: 400 MHz (..) </opis>
+<socket>Brak informacji o sockecie</socket>
+<typ_pamieci>Brak informacji o typie pamieci</typ_pamieci>
+            <image_mini>http://img.nokaut.pl/p/68/36/683615572b513578b2c6eee543ab0cfd90x90.jpg</image_mini>
+            <image_medium>http://img.nokaut.pl/p/68/36/683615572b513578b2c6eee543ab0cfd130x130.jpg</image_medium>
+            <image_large>http://img.nokaut.pl/p/68/36/683615572b513578b2c6eee543ab0cfd500x500.jpg</image_large>
+            <rate>0.00</rate>
+            <thumbnail>http://img.nokaut.pl/p/68/36/683615572b513578b2c6eee543ab0cfd90x90.jpg</thumbnail>
+            <image>http://img.nokaut.pl/p/68/36/683615572b513578b2c6eee543ab0cfd130x130.jpg</image>
+        </item>
+        <item>
+            <id>5616419354818458691</id>
+            <name>Gigabyte Radeon HD 4650 1GB DDR2 PCI-E</name>
+            <shop_count>36</shop_count>
+            <offer_count>36</offer_count>
+            <price_min>182,49</price_min>
+            <price_max>217,88</price_max>
+            <price_avg>192,24</price_avg>
+            <url>http://www.nokaut.pl/plyty-glowne/gigabyte-radeon-hd-4650-1gb-ddr2-pci-e.html</url>
+<opis>Opis techniczny Kod Producenta : GV-R465OC-1GI 1.1 PCIE Nazwa producenta karty : Gigabyte Radeon HD 4650 O.C. Nazwa producenta chipsetu : ATI Typ Chipsetu : Radeon HD4650 Złącze : PCI-Express 2.0 x 16 Wielkość pamięci : 1024 MB Typ pamięci : DDR II Szerokość magistrali pamięci : 128 bit Ilość jednostek Vertex Shader : 320 Taktowanie procesora : 650 MHz Efektywne taktowanie pamięci w 3D : 800 MHz Technologia wykonania : 55 nm RAMDAC : 400 MHz Low Profile : Nie Chłodzenie chipsetu : Aktywne Chłodzenie (opis) : wentylator Wyjścia D-Sub na karcie : 1 szt. Wyjścia DVI na karcie : 1 szt. Obsługa wielu monitorów : 2 Wyjście HDTV : Gniazdo HDMI Wyjście standard TV : Brak Wejście Video : Nie Cross Fire : Tak SLI : Nie Zgodność programowa : DirectX? 10.1, Shader Model 4.1 Dodatkowe oprogramowanie : brak Wyposażenie : Instrukcja, driver CD www : www.gigabyte.com.tw « zwiń opis </opis>
+<socket>Brak informacji o sockecie</socket>
+<typ_pamieci>DDR2</typ_pamieci>
+            <image_mini>http://img.nokaut.pl/p/19/c7/19c736698fe782f0efde2935b21ce85890x90.jpg</image_mini>
+            <image_medium>http://img.nokaut.pl/p/19/c7/19c736698fe782f0efde2935b21ce858130x130.jpg</image_medium>
+            <image_large>http://img.nokaut.pl/p/19/c7/19c736698fe782f0efde2935b21ce858500x500.jpg</image_large>
+            <rate>0.00</rate>
+            <thumbnail>http://img.nokaut.pl/p/19/c7/19c736698fe782f0efde2935b21ce85890x90.jpg</thumbnail>
+            <image>http://img.nokaut.pl/p/19/c7/19c736698fe782f0efde2935b21ce858130x130.jpg</image>
+        </item>
+        <item>
+            <id>4254096719766448997</id>
+            <name>ASUS M5A87 AMD 870 Socket AM3+</name>
+            <shop_count>32</shop_count>
+            <offer_count>32</offer_count>
+            <price_min>338,00</price_min>
+            <price_max>439,49</price_max>
+            <price_avg>387,17</price_avg>
+            <url>http://www.nokaut.pl/plyty-glowne/asus-m5a87-amd-870-socket-am3.html</url>
+<opis>Opis techniczny Kod Producenta : M5A87 Typ gniazda procesora : Socket - AM3+ Obsługiwane procesory : AMD AM3+ FX?/Phenom? II/Athlon? II/Sempron? seria 100 Producent Chipsetu : AMD Model Chipsetu : AMD 870/SB850 Magistrala : 5.2 GT/s HyperTransport? 3.0 MHz Ilość gniazd pamięci DDR III : 4 szt. Obsługiwane typy pamięci : DDR3 2000(O.C.)/1600(O.C.)/1333/1066 Hz Dwukanałowa obsługa pamięci : Tak Maks. pojemność pamięci : 16 GB Gniazdo PCI-Express x16 : 1 szt. Gniazdo PCI-Express x1 : 2 szt. Gniazdo AGR / AGI : Nie Gniazdo PCI : 3 szt. Obsługa SLI : Nie Obsługa CrossFire : Nie Zintegrowana karta graficzna : brak Zintegrowana karta dźwiękowa : Realtek? ALC 887 8-Channel High Definition Audio CODEC Zintegrowana karta sieciowa : Realtek? 8111E , 1 x Gigabit LAN Controller Złącza Serial ATA 2 : 6 szt. Kontroler RAID ATA : Nie Kontroler RAID SATA : Tak Gniazdo PS/2 : 1 szt. Gniazdo COM : 1 szt. Gniazdo LPT : 1 szt. Gniazdo sieciowe RJ45 : 1 szt. Złącza USB zewnętrzne : 6 szt. Złącza USB wewnętrzne : 8 szt. Gniazda audio analogowe : 3 szt. Gniazda zasilania : 1 x 24-pin EATX, 1 x 4-pin ATX 12V, 1 x CPU, 1 x Chassis, 1 x Power Dodatkowe złącza wewnętrzne : 1 x S/PDIF out, 1 x Front panel audio, 1 x System panel, 1 x MemOK!, 1 x Core Unlocker Standard : ATX Wymiary (wys x szer) : 30.5 cm x 21.3 cm mm www : http://www.asus.com/Motherboards/AMD_AM3Plus/M5A87/#specifications « zwiń opis </opis>
+<socket>Socket AM3</socket>
+<typ_pamieci>DDR3</typ_pamieci>
+            <image_mini>http://img.nokaut.pl/p/c4/c0/c4c0b6b54a5efc6a256972f7f613752690x90.jpg</image_mini>
+            <image_medium>http://img.nokaut.pl/p/c4/c0/c4c0b6b54a5efc6a256972f7f6137526130x130.jpg</image_medium>
+            <image_large>http://img.nokaut.pl/p/c4/c0/c4c0b6b54a5efc6a256972f7f6137526500x500.jpg</image_large>
+            <rate>0.00</rate>
+            <thumbnail>http://img.nokaut.pl/p/c4/c0/c4c0b6b54a5efc6a256972f7f613752690x90.jpg</thumbnail>
+            <image>http://img.nokaut.pl/p/c4/c0/c4c0b6b54a5efc6a256972f7f6137526130x130.jpg</image>
+        </item>
+        <item>
+            <id>4268126199112789353</id>
+            <name>ASUS M4A88T-M</name>
+            <shop_count>66</shop_count>
+            <offer_count>92</offer_count>
+            <price_min>294,82</price_min>
+            <price_max>429,00</price_max>
+            <price_avg>359,71</price_avg>
+            <url>http://www.nokaut.pl/plyty-glowne/asus-m4a88t-m.html</url>
+<opis>Tabela parametryczna Gniazdo procesora: Socket AM3 Typ procesora: AMD Athlon II X2 AMD Athlon II X3 AMD Athlon II X4 AMD Phenom II X2 AMD Phenom II X3 AMD Phenom II X4 AMD Phenom II X6 Zintegrowany procesor: nie Producent chipsetu: AMD Typ chipsetu: AMD 880G/SB710 AMD 880G/SB710 Rodzaj pamięci: DDR3 Liczba gniazd DDR3: 4 szt. Częstotliwość szyny pamięci: 1066 MHz 1333 MHz 1866 MHz Max. wielkość pamięci (GigaBajt) : 16GB Złącza PCI: 1 szt. Złącza PCI-E 16x ver. 2.0: 1 szt. Złącza PCI-E 8x : Brak Złącza PCI-E 4x : Brak Złącza PCI-E 1x : 2 szt. Złącze AGP: Nie Maksymalna ilość urządzeń SATA: 6 Maksymalna ilość urządzeń ATA: 2 RAID: tak Szczegółowe dane o interfejsach dysków/napędów: 1 kanał UltraDMA 133/100/66 6 portów SATA 3.0 Gb/s obsługą RAID 0,1,10,JBOD 1 kanał UltraDMA 133/100/66 6 portów SATA 3.0 Gb/s obsługą RAID 0,1,10,JBOD Zintegrowana karta graficzna: tak Typ zintegrowanej karty graficznej: Zintegrowany ATI Radeon HD 4250 GPU Obsługa technologii HDMI z maksymalną rozdzielczością 1920 x 1080 Obsługa Dual-link DVI z maksymalną rozdzielczością 2560x1600 przy 60Hz Obsługa D-Sub z maksymalną rozdzielczością 2048x1536 przy 85Hz Obsługa Hybrid CrossFireX Obsługa dwóch niezależnych ekranów poprzez HDMI/DVI i D-Sub Obsługa DirectX 10.1, OpenGL 2.0, Shader Model 4.1, Universal Video Decoder (UVD) 2.0 Sprzętowa akceleracja dekodowania dla H.264, VC-1, i MPEG-2 Maksymalna pamięć dzielona 1GB Zintegrowany ATI Radeon HD 4250 GPU Obsługa technologii HDMI z maksymalną rozdzielczością 1920 x 1080 Obsługa Dual-link DVI z maksymalną rozdzielczością 2560x1600 przy 60Hz Obsługa D-Sub z maksymalną rozdzielczością 2048x1536 przy 85Hz Obsługa Hybrid CrossFireX Obsługa dwóch niezależnych ekranów poprzez HDMI/DVI i D-Sub Obsługa DirectX 10.1, OpenGL 2.0, Shader Model 4.1, Universal Video Decoder (UVD) 2.0 Sprzętowa akceleracja dekodowania dla H.264, VC-1, i MPEG-2 Maksymalna pamięć dzielona 1GB Karta dźwiękowa: 8-kanałowy High Definition Audio CODEC VT1708S Obsługa Jack-Detection, Multi-Streaming, i Front Panel Jack-Retasking (tylko tryb HD) Optyczne wyjścia S/PDIF na tylnym panelu 8-kanałowy High Definition Audio CODEC VT1708S Obsługa Jack-Detection, Multi-Streaming, i Front Panel Jack-Retasking (tylko tryb HD) Optyczne wyjścia S/PDIF na tylnym panelu Interfejs sieciowy: 10/100/1000 Mbit/s Złącza USB na tylnym panelu: 6 Złącza USB do wyprowadzenia z płyty: 6 FireWire (IEEE 1394): tak Port COM: Nie Port LPT: Nie Interfejsy na tylnym panelu: 1 x Port combo PS/2 klawiatura/myszka 1 x DVI 1 x D-Sub 1 x HDMI 1 wyjście interfejsu S/PDIF (koncentryczne) 1 gniazda RJ-45 (sieć LAN) 6 portów USB 2.0/1.1 Zestaw we/wy 8 -kanałowej karty dźwiękowej 1 x Port combo PS/2 klawiatura/myszka 1 x DVI 1 x D-Sub 1 x HDMI 1 wyjście interfejsu S/PDIF (koncentryczne) 1 gniazda RJ-45 (sieć LAN) 6 portów USB 2.0/1.1 Zestaw we/wy 8 -kanałowej karty dźwiękowej Złącza dostępne na płycie: 3 x złącze USB 2.0 (6 porty) 1 x złącze COM 1 x złącze IDE 6 x złącze SATA 3Gb/s 1 x Złącze wentylatora procesora 1 x złącze wentylatora obudowy 1 x Złącze audio na panelu przednim 1 x Wyjście S/PDIF 1 x guzik MemOK! 1 x złącze LPT 24-pinowe złącze zasilania ATX 4-pinowe złącze zasilania ATX 12V 1 x złącze System Panel 3 x złącze USB 2.0 (6 porty) 1 x złącze COM 1 x złącze IDE 6 x złącze SATA 3Gb/s 1 x Złącze wentylatora procesora 1 x złącze wentylatora obudowy 1 x Złącze audio na panelu przednim 1 x Wyjście S/PDIF 1 x guzik MemOK! 1 x złącze LPT 24-pinowe złącze zasilania ATX 4-pinowe złącze zasilania ATX 12V 1 x złącze System Panel Funkcje specjalne: Konstrukcja ASUS Green: EPU-4 Engine Hybrydowy system operacyjny firmy ASUS Express Gate Własne funkcje ASUS MemOK! Core Unlocker Anti-Surge (zabezpieczenie przed przepięciami) Ciche chłodzenie ASUS ASUS Fanless Design: Rozwiązanie z zastosowaniem radiatora ASUS Q-Fan ASUS EZ DIY ASUS O.C. Profile ASUS CrashFree BIOS 3 ASUS EZ Flash 2 ASUS MyLogo 2 Konstrukcja ASUS Green: EPU-4 Engine Hybrydowy system operacyjny firmy ASUS Express Gate Własne funkcje ASUS MemOK! Core Unlocker Anti-Surge (zabezpieczenie przed przepięciami) Ciche chłodzenie ASUS ASUS Fanless Design: Rozwiązanie z zastosowaniem radiatora ASUS Q-Fan ASUS EZ DIY ASUS O.C. Profile ASUS CrashFree BIOS 3 ASUS EZ Flash 2 ASUS MyLogo 2 Bios: 16 Mb pamięci Flash ROM , AMI BIOS, PnP, DMI2.0, WfM2.0, SM BIOS 2.5, ACPI 2.0a, ASUS EZ Flash 2, ASUS CrashFree BIOS 3 16 Mb pamięci Flash ROM , AMI BIOS, PnP, DMI2.0, WfM2.0, SM BIOS 2.5, ACPI 2.0a, ASUS EZ Flash 2, ASUS CrashFree BIOS 3 Format płyty: micro ATX Wymiary: 24.4 cm x 24.4 cm 24.4 cm x 24.4 cm Akcesoria w zestawie: Instrukcja obsługi 1 Osłonka portów I/O 1 Przewód UltraDMA 133/100/66 2 Przewód SATA Płyta "Support CD" (Sterowniki, Oprogramowanie antywirusowe (wersja OEM), ASUS Update, Narzędzia ASUS) Instrukcja obsługi 1 Osłonka portów I/O 1 Przewód UltraDMA 133/100/66 2 Przewód SATA Płyta "Support CD" (Sterowniki, Oprogramowanie antywirusowe (wersja OEM), ASUS Update, Narzędzia ASUS) Kod producenta: M4A88T-M Gwarancja: 3 lata « zwiń opis </opis>
+<socket>Socket AM3</socket>
+<typ_pamieci>DDR3</typ_pamieci>
+            <image_mini>http://img.nokaut.pl/bdk/90/0/244470.jpg</image_mini>
+            <image_medium>http://img.nokaut.pl/bdk/130/0/244470.jpg</image_medium>
+            <image_large>http://img.nokaut.pl/bdk/500/0/244470.jpg</image_large>
+            <rate>0.00</rate>
+            <thumbnail>http://img.nokaut.pl/bdk/90/0/244470.jpg</thumbnail>
+            <image>http://img.nokaut.pl/bdk/130/0/244470.jpg</image>
+        </item>
+        <item>
+            <id>4902334347480342310</id>
+            <name>ASUS P7P55-M</name>
+            <shop_count>65</shop_count>
+            <offer_count>67</offer_count>
+            <price_min>317,44</price_min>
+            <price_max>443,00</price_max>
+            <price_avg>379,64</price_avg>
+            <url>http://www.nokaut.pl/plyty-glowne/asus-p7p55-m.html</url>
+<opis>Plyta glowna Asus P7P55-M S1156 P55 4DDR3 RAID/FIRE/8CH/GLAN mATX Dane techniczne: Gniazdo procesora: LGA1156 Typ procesora: Intel Core i3 Intel Core i5 Intel Core i7 Zintegrowany procesor: nie Producent chipsetu: Intel Typ chipsetu: Intel P55 Express Chipset Rodzaj pamieci: DDR3 Liczba gniazd DDR3: 4 szt. Czestotliwosc szyny pamieci: 1066 MHz 1333 MHz 1600 MHz 2200 MHz Max. wielkosc pamieci: 16 GB Zlacza PCI: 1 szt. Zlacza PCI-E 16x: 1 szt. Zlacza PCI-E 8x: Brak Zlacza PCI-E 4x: Brak Zlacza PCI-E 1x: 2 szt. Zlacze AGP: Nie Maksymalna ilosc urzadzen SATA: 6 Maksymalna ilosc urzadzen ATA: 2 RAID: tak Szczegolowe dane o interfejsach dyskow/napedow: Intel P55 Express Chipset built-in 6 x SATA 3.0 Gb/s (Intel Matrix Storage Technology RAID 0, 1, 0+1, 5, 10) VIA VT6415 PATA kontroler 1 x UltraDMA 133/100/66 Zintegrowana karta graficzna: nie Karta dzwiekowa: 8-kanalowa VIA VT1708S High Definition Audio CODEC Interfejs sieciowy: 10/100/1000 Mbit/s Zlacza USB na tylnym panelu: 8 Zlacza USB do wyprowadzenia z plyty: 6 FireWire (IEEE 1394): tak Port COM: Nie Port LPT: Nie Interfejsy na tylnym panelu: 1 x PS/2 Klawiatura/mysz Combo port 1 x IEEE 1394a 1 x LAN(RJ45) port 8 x USB 2.0/1.1 1 x COM port 8 - Channel Audio I/O Zlacza dostepne na plycie: 3 x USB (6 USB) 1 x IDE 6 x SATA 1 x CPU Fan 1 x Chassis Fan 1 x LPT 1 x Front panel audio 1 x S/PDIF Out 1 x 24-pin ATX Power 1 x 4-pin ATX 12V Power 1 x System Panel Funkcje specjalne: ASUS Turbo Key ASUS TurboV ASUS EPU ASUS Express Gate ASUS CrashFree BIOS 3 ASUS EZ Flash 2 ASUS MyLogo 2 Bios: 16 Mb Flash ROM , AMI BIOS, PnP, DMI2.0, WfM2.0, SM BIOS 2.5, ACPI 2.0a Format plyty: micro ATX Wymiary: 24.4 cm x 21.8 cm Akcesoria w zestawie: 1 x Instrukcja uzytkownika 1 x I/O Shield 1 x Kabel UltraDMA 133/100/66 2 x Kabel SATA Plyta "Support CD" (Drivers, Anti-virus software (OEM version), ASUS Update, ASUS Utilities) « zwiń opis </opis>
+<socket>Socket 1156</socket>
+<typ_pamieci>DDR3</typ_pamieci>
+            <image_mini>http://img.nokaut.pl/bdk/90/3/169273.jpg</image_mini>
+            <image_medium>http://img.nokaut.pl/bdk/130/3/169273.jpg</image_medium>
+            <image_large>http://img.nokaut.pl/bdk/500/3/169273.jpg</image_large>
+            <rate>0.00</rate>
+            <thumbnail>http://img.nokaut.pl/bdk/90/3/169273.jpg</thumbnail>
+            <image>http://img.nokaut.pl/bdk/130/3/169273.jpg</image>
+        </item>
+        <item>
+            <id>571273300390105678</id>
+            <name>ASUS P7P55D-E</name>
+            <shop_count>54</shop_count>
+            <offer_count>55</offer_count>
+            <price_min>436,16</price_min>
+            <price_max>540,33</price_max>
+            <price_avg>475,57</price_avg>
+            <url>http://www.nokaut.pl/plyty-glowne/asus-p7p55d-e.html</url>
+<opis>Plyta glowna Asus P7P55D-E S1156 P55 4DDR3 RAID/FIRE/USB3 ATX Dane techniczne: Gniazdo procesora: LGA1156 Typ procesora: Intel Core i3 Intel Core i5 Intel Core i7 Zintegrowany procesor: nie Producent chipsetu: Intel Typ chipsetu: Intel P55 Rodzaj pamieci: DDR3 Liczba gniazd DDR3: 4 szt. Czestotliwosc szyny pamieci: 1066 MHz 1333 MHz 1600 MHz 2200 MHz Max. wielkosc pamieci: 16 GB Zlacza PCI: 2 szt. Zlacza PCI-E 16x: 2 szt. Zlacza PCI-E 1x: 3 szt. Zlacze AGP: Nie Maksymalna ilosc urzadzen SATA: 9 Maksymalna ilosc urzadzen ATA: 2 RAID tak Szczegolowe dane o interfejsach dyskow/napedow: Intel P55 Express Chipset: 6 x SATA 3.0 Gb/s Intel Matrix Storage Technology obsluga RAID 0,1,5,10 Kontroler JMicron JMB363 PATA i SATA: 1 x UltraDMA 133/100/66 1 x zewnetrzne porty SATA 3Gb/s 1 x SATA 3Gb/s port (czarne) Marvell SATA 6Gb/s kontroler: 2 x SATA 6.0 Gb/s ports (szare) Zintegrowana karta graficzna: nie Karta dzwiekowa: 8-kanalowe, VIA VT1828S Interfejs sieciowy: 10/100/1000 Mbit/s Zlacza USB na tylnym panelu: 8 Zlacza USB do wyprowadzenia z plyty: 6 FireWire (IEEE 1394): tak Port COM: Nie Port LPT Nie Na panelu tylnym Interfejsy: 1 x PS / 2 mysz 1 x PS / 2 KLAWIATURA 6 x USB 2.0/1.1 1 x S / PDIF Out (Optyczne) 1 x IEEE 1394a Zewnetrzne 1 x SATA 3Gb / s 1 x LAN (RJ45) port 2 x USB 3.0/2.0 porty (niebieskie) 8-kanalowe audio I / O Zlacza dostepne na plycie: 3 x USB (6 x USB) 1 x zlacze IDE 1 x Zlacze IEEE 1394a 1 x zlacze wentylatora procesora 1 x zlacze wentylatora zasilacza 1 zlacze portu COM 2 x SATA 6.0Gb / s Zlacza (szare) 7 x SATA 3,0 Gb / s Zlacza (niebieskie z P55, czarne z JMB363) 2 x zlacze dla fanow (1x4-pin, 1x3-pin) Zlacze przedniego panelu audio 1 x S / PDIF dzwieku z CD 24-pinowe zlacze zasilania ATX 1 x 8-pinowe zlacze zasilania ATX 12V Panel System (Q-Connector) 1 x MemOK! przycisk Poziom 1 x IO przycisk UP Funkcje specjalne: ASUS Level UP do IO Ultra Performance: True True USB 3.0 lub SATA 6GB / s Support ASUS Xtreme Design: Procesor o ASUS Hybrid - EVO TurboV: Auto Tuning, TurboV i Turbo Key 16 Hybrid fazy: T. Probe technologii Active Cooling 12 2-fazowy uklad zasilania Hybrydowe zasilanie 16-fazowe zasilanie = 12 2-fazowe x T. Probe ASUS Hybrid OS - Express Gate ASUS Xtreme Design ASUS o hotelu: MemOK! ASUS EPU Ciche chlodzenie ASUS: Bezglosne chlodzenie ASUS: Stylowy radiator rozwiazanie Bezglosne chlodzenie ASUS: Stack cool 3 ASUS Fan Xpert ASUS Crystal Sound: Filtr szumow ASUS ASUS EZ DIY o: ASUS Q-Shield ASUS Q-Connector ASUS O.C. Profil ASUS CrashFree BIOS 3 ASUS EZ Flash 2 ASUS MyLogo 2 BIOS w wielu jezykach ASUS Q-Design: ASUS Q-LED (CPU, DRAM, VGA, Boot Device LED) ASUS Q-Slot ASUS Q-DIMM Funkcje O / C: Precision Tweaker 2: vCore: ZMIANA napiecia CPU z krokiem 0.00625V vIMC: 97-stopniowa kontrola napiecia IMC vDRAM autobusowy: 104-stopniowa kontrola napiecia pamieci vPCH: 36-stopnio « zwiń opis </opis>
+<socket>Socket 1156</socket>
+<typ_pamieci>DDR3</typ_pamieci>
+            <image_mini>http://img.nokaut.pl/bdk/90/8/177468.jpg</image_mini>
+            <image_medium>http://img.nokaut.pl/bdk/130/8/177468.jpg</image_medium>
+            <image_large>http://img.nokaut.pl/bdk/500/8/177468.jpg</image_large>
+            <rate>0.00</rate>
+            <thumbnail>http://img.nokaut.pl/bdk/90/8/177468.jpg</thumbnail>
+            <image>http://img.nokaut.pl/bdk/130/8/177468.jpg</image>
+        </item>
+        <item>
+            <id>2794002214664495879</id>
+            <name>ASROCK P67 EXTREME4 Intel P67 LGA 1155</name>
+            <shop_count>32</shop_count>
+            <offer_count>32</offer_count>
+            <price_min>571,00</price_min>
+            <price_max>738,30</price_max>
+            <price_avg>670,26</price_avg>
+            <url>http://www.nokaut.pl/plyty-glowne/asrock-p67-extreme4-intel-p67-lga-1155.html</url>
+<opis>Opis techniczny Kod Producenta : P67 EXTREME4 Typ gniazda procesora : Socket - 1155 Obsługiwane procesory : Intel? Core? i7 / i5 / i3 LGA1155 Producent Chipsetu : Intel Model Chipsetu : Intel? P67 Magistrala : - MHz Ilość gniazd pamięci DDR III : 4 szt. Obsługiwane typy pamięci : DDR3 2133(OC)/1866(OC)/1600/1333/1066 Dwukanałowa obsługa pamięci : Tak Maks. pojemność pamięci : 32 GB Gniazdo PCI-Express x16 : 3 szt. Gniazdo PCI-Express x1 : 2 szt. Gniazdo AGR / AGI : Nie Gniazdo PCI : 2 szt. Obsługa SLI : Tak Obsługa CrossFire : Tak Zintegrowana karta graficzna : brak Zintegrowana karta dźwiękowa : 7.1 CH HD Audio (Realtek ALC892 Audio Codec) Zintegrowana karta sieciowa : Gigabit LAN 10/100/1000 Mb/s (Realtek RTL8111E) Złącza Serial ATA 2 : 4 szt. Złącza Serial ATA 3 : 4 szt. Złącza eSATA : 1 szt. Kontroler RAID ATA : Nie Kontroler RAID SATA : Tak Interfejs FDD : 1 szt. Gniazdo PS/2 : 2 szt. Gniazdo sieciowe RJ45 : 1 szt. Złącza USB zewnętrzne : 8 szt. Złącza USB wewnętrzne : 8 szt. Złącza FireWire zewnętrzne : 1 szt. Złącza FireWire wewnetrzne : 1 szt. Gniazda audio analogowe : 6 szt. Gniazda audio cyfrowe : 2 szt. Gniazda zasilania : 24 pin ATX, 8 pin 12V, SLI/XFire, CPU/Chassis/Power FAN Dodatkowe złącza wewnętrzne : 1 x IR, 1 x COM, 1 x HDMI_SPDIF, 1 x IEEE 1394, 1 x Power LED, Front panel audio, 1 x Dr. Debug with LED Standard : ATX Wymiary (wys x szer) : 30.5 cm x 24.4 cm mm Funkcje dodatkowe : Obsługa ATI? Quad CrossFireX?, 3-Way CrossFireX? and CrossFireX?, NVIDIA? Quad SLI? and SLI? Informacje dodatkowe : Płyty z nowym, poprawionym chipsetem B3. www : http://www.asrock.com/mb/overview.asp?Model=P67%20Extreme4&amp;cat=Specifications « zwiń opis </opis>
+<socket>Socket 1155</socket>
+<typ_pamieci>DDR3</typ_pamieci>
+            <image_mini>http://img.nokaut.pl/p/96/86/9686732bec3f0e5752d0cd6ff3f3f15c90x90.jpg</image_mini>
+            <image_medium>http://img.nokaut.pl/p/96/86/9686732bec3f0e5752d0cd6ff3f3f15c130x130.jpg</image_medium>
+            <image_large>http://img.nokaut.pl/p/96/86/9686732bec3f0e5752d0cd6ff3f3f15c500x500.jpg</image_large>
+            <rate>0.00</rate>
+            <thumbnail>http://img.nokaut.pl/p/96/86/9686732bec3f0e5752d0cd6ff3f3f15c90x90.jpg</thumbnail>
+            <image>http://img.nokaut.pl/p/96/86/9686732bec3f0e5752d0cd6ff3f3f15c130x130.jpg</image>
+        </item>
+        <item>
+            <id>2853450170262121840</id>
+            <name>Asus 1015PX-BLK093S - N570/1GB/320GB/Int 3150/W7S</name>
+            <shop_count>2</shop_count>
+            <offer_count>2</offer_count>
+            <price_min>1129,00</price_min>
+            <price_max>1156,21</price_max>
+            <price_avg>1142,61</price_avg>
+            <url>http://www.nokaut.pl/plyty-glowne/asus-1015px-blk093s-n570-1gb-320gb-int-3150-w7s.html</url>
+<opis>Klasa procesora INTEL ATOM Kod procesora N570 Prędkość procesora 1.66 GHz Dysk twardy </opis>
+<socket>Brak informacji o sockecie</socket>
+<typ_pamieci>Brak informacji o typie pamieci</typ_pamieci>
+            <image_mini>http://img.nokaut.pl/p/41/36/4136996cce4bd22f0065ea41bacf9bdd90x90.jpg</image_mini>
+            <image_medium>http://img.nokaut.pl/p/41/36/4136996cce4bd22f0065ea41bacf9bdd130x130.jpg</image_medium>
+            <image_large>http://img.nokaut.pl/p/41/36/4136996cce4bd22f0065ea41bacf9bdd500x500.jpg</image_large>
+            <rate>0.00</rate>
+            <thumbnail>http://img.nokaut.pl/p/41/36/4136996cce4bd22f0065ea41bacf9bdd90x90.jpg</thumbnail>
+            <image>http://img.nokaut.pl/p/41/36/4136996cce4bd22f0065ea41bacf9bdd130x130.jpg</image>
+        </item>
+        <item>
+            <id>7755386677429491279</id>
+            <name>Asus X73SV-TY344V</name>
+            <shop_count>2</shop_count>
+            <offer_count>2</offer_count>
+            <price_min>2458,40</price_min>
+            <price_max>2572,20</price_max>
+            <price_avg>2515,30</price_avg>
+            <url>http://www.nokaut.pl/laptopy/asus-x73sv-ty344v.html</url>
+<opis>"Intel Core i3 2330M (2,2 GHz 3MB) ; ekran LCD: 17.3"" TFT Glare 1600 x900 ; dysk HDD: 500GB (5400rpm) ; pamięć RAM: 4GB DDR3 (1x4 GB 1333 DDR3 1 wolne sloty) ; karta graficzna: nVidia GT540 1 GB ; Napęd optyczny:[SATA] 12.7""mm 8X Super Multi with Double Layer / Typ gniazda rozszerzeń:Bluetooth 3.0 , HDMI , 4 x USB 2.0 . DSUB / Łączność : Wi-FI bgn , kamera , czytnik kart SD / bateria: Li-Ion (6 Cell 5200 mAh) / System operacyjny: Windows 7 HP 64 bit / Wymiary : 42.0(W) x 28.0(D) x 3.68 ~ 3.85 (H) cm / Masa brutto: 3,2 kg.W zestawie Office 2010 Starter " « zwiń opis </opis>
+<socket>Brak informacji o sockecie</socket>
+<typ_pamieci>DDR3</typ_pamieci>
+            <image_mini>http://img.nokaut.pl/p/58/da/58daa8241b1b7dd319fb1ec4388d7de290x90.jpg</image_mini>
+            <image_medium>http://img.nokaut.pl/p/58/da/58daa8241b1b7dd319fb1ec4388d7de2130x130.jpg</image_medium>
+            <image_large>http://img.nokaut.pl/p/58/da/58daa8241b1b7dd319fb1ec4388d7de2500x500.jpg</image_large>
+            <rate>0.00</rate>
+            <thumbnail>http://img.nokaut.pl/p/58/da/58daa8241b1b7dd319fb1ec4388d7de290x90.jpg</thumbnail>
+            <image>http://img.nokaut.pl/p/58/da/58daa8241b1b7dd319fb1ec4388d7de2130x130.jpg</image>
+        </item>
+        <item>
+            <id>5632749961734100935</id>
+            <name>GIGABYTE GA-MA78LMT-S2</name>
+            <shop_count>43</shop_count>
+            <offer_count>44</offer_count>
+            <price_min>177,69</price_min>
+            <price_max>217,48</price_max>
+            <price_avg>192,39</price_avg>
+            <url>http://www.nokaut.pl/plyty-glowne/gigabyte-ga-ma78lmt-s2.html</url>
+<opis>Plyta glowna Gigabyte GA-MA78LMT-S2 AM3 AMD760G 2DDR3 mATX Dane techniczne: Gniazdo procesora: Socket AM3 Typ procesora: AMD Athlon II AMD Athlon II X2 AMD Athlon II X3 AMD Athlon II X4 AMD Phenom II X3 AMD Phenom II X2 AMD Phenom II X4 AMD Phenom II X6 Zintegrowany procesor: nie Producent chipsetu: AMD Typ chipsetu: AMD 760G i AMD SB710 Rodzaj pamieci: DDR3 Liczba gniazd DDR3: 2 szt. Czestotliwosc szyny pamieci: 800 MHz 1066 MHz 1333 MHz Max. wielkosc pamieci: 8 GB Zlacza PCI: 2 szt. Zlacza PCI-E 16x: 1 szt. Zlacza PCI-E 8x: Brak Zlacza PCI-E 4x: Brak Zlacza PCI-E 1x: 1 szt. Zlacze AGP: Nie Maksymalna ilosc urzadzen SATA: 4 Maksymalna ilosc urzadzen ATA: 2 RAID: tak Szczegolowe dane o interfejsach dyskow/napedow: 1 x ATA-133/100/66/33 4 x SATA 3Gb/s (RAID 0, RAID 1, RAID 10 i JBOD) Zintegrowana karta graficzna: tak Typ zintegrowanej karty graficznej: Zintegrowana w mostku polnocnym: 1 x D-Sub 1 x DVI-D Karta dzwiekowa: Realtek ALC888B Interfejs sieciowy: 10/100/1000 Mbit/s Zlacza USB na tylnym panelu: 8 Zlacza USB do wyprowadzenia z plyty: 4 FireWire (IEEE 1394): nie Port COM: Nie Port LPT: Nie Interfejsy na tylnym panelu: 1 x PS/2 klawiatura / mysz 1 x D-Sub 1 x DVI-D 8 x USB 2.0/1.1 1 x RJ-45 port 3 x audio (Line In/Line Out/Microphone) Zlacza dostepne na plycie: 1 x 24-pin ATX main power connector 1 x 4-pin ATX 12V power connector 1 x floppy disk drive connector 1 x IDE connector 4 x SATA 3Gb/s connectors 1 x CPU fan header 1 x system fan header 1 x front panel header 1 x front panel audio header 1 x CD In connector 1 x S/PDIF In/Out header 2 x USB 2.0/1.1 headers 1 x serial port header 1 x clearing CMOS jumper Funkcje specjalne: @BIOS Q-Flash Download Center Xpress Install Xpress Recovery2 EasyTune Bios: 2 x 8 Mbit flash Use of licensed AWARD BIOS Support for DualBIOS PnP 1.0a, DMI 2.0, SM BIOS 2.4, ACPI 1.0b Format plyty: micro ATX Wymiary: 24.3cm x 22.0 cm « zwiń opis </opis>
+<socket>Socket AM3</socket>
+<typ_pamieci>DDR3</typ_pamieci>
+            <image_mini>http://img.nokaut.pl/bdk/90/6/251276.jpg</image_mini>
+            <image_medium>http://img.nokaut.pl/bdk/130/6/251276.jpg</image_medium>
+            <image_large>http://img.nokaut.pl/bdk/500/6/251276.jpg</image_large>
+            <rate>0.00</rate>
+            <thumbnail>http://img.nokaut.pl/bdk/90/6/251276.jpg</thumbnail>
+            <image>http://img.nokaut.pl/bdk/130/6/251276.jpg</image>
+        </item>
+        <item>
+            <id>6265506391558708078</id>
+            <name>ASROCK N68C-S UCC</name>
+            <shop_count>64</shop_count>
+            <offer_count>66</offer_count>
+            <price_min>160,44</price_min>
+            <price_max>211,63</price_max>
+            <price_avg>183,21</price_avg>
+            <url>http://www.nokaut.pl/plyty-glowne/asrock-n68c-s-ucc.html</url>
+<opis>Plyta glowna ASRock N68C-S UCC AM2+ GF7025 2DDR2/2DDR3 mATX Dane techniczne: Gniazdo procesora: Socket AM2 Socket AM2+ Socket AM3 Typ procesora: AMD Athlon AMD Athlon X2 AMD Athlon II X2 AMD Athlon II X3 AMD Athlon II X4 AMD Sempron AMD Sempron X2 AMD Phenom X3 AMD Phenom X4 AMD Phenom II X3 AMD Phenom II X2 AMD Phenom II X4 AMD Phenom II X6 FSB" 1000 MHz Zintegrowany procesor" nie Producent chipsetu: nVidia Typ chipsetu: GeForce 7025 / nForce 630a Rodzaj pamieci: DDR2 DDR3 Liczba gniazd DDR2: 2 szt. Liczba gniazd DDR3: 2 szt. Czestotliwosc szyny pamieci: 533 MHz 667 MHz 800 MHz 1066 MHz 1333 MHz 1600 MHz Max. wielkosc pamieci: 8 GB Zlacza PCI: 2 szt. Zlacza PCI-E 16x: 1 szt. Zlacza PCI-E 8x: Brak Zlacza PCI-E 4x: Brak Zlacza PCI-E 1x: 1 szt. Zlacze AGP: Nie Maksymalna ilosc urzadzen SATA: 4 Maksymalna ilosc urzadzen ATA: 2 RAID: tak Szczegolowe dane o interfejsach dyskow/napedow: 4 x SATAII 3.0 Gb/s connectors, support RAID (RAID 0, RAID 1, RAID 0+1, RAID 5 and JBOD), NCQ and "Hot Plug" functions 1 x ATA133 IDE connector (supports 2 x IDE devices) Zintegrowana karta graficzna: tak Typ zintegrowanej karty graficznej: Integrated NVIDIA GeForce 7025 graphics, DX9.0 VGA, Pixel Shader 3.0, Max. shared memory 256MB, supports D-Sub with max. resolution up to 1920x1440 @ 60Hz Karta dzwiekowa: 5.1 CH HD Audio (VIA VT1705 Audio Codec) Interfejs sieciowy: 10/100 Mbit/s Zlacza USB na tylnym panelu: 4 Zlacza USB do wyprowadzenia z plyty: 6 FireWire (IEEE 1394): nie Port COM: Tak Port LPT: Nie Interfejsy na tylnym panelu: 1 x PS/2 Mouse Port 1 x PS/2 Keyboard Port 1 x Serial Port: COM1 1 x VGA Port 4 x Ready-to-Use USB 2.0 Ports 1 x RJ-45 LAN Port with LED (ACT/LINK LED and SPEED LED) HD Audio Jack: Line in / Front Speaker / Microphone Zlacza dostepne na plycie: 4 x SATAII 3.0 Gb/s connectors, support RAID (RAID 0, RAID 1, RAID 0+1, RAID 5 and JBOD), NCQ and "Hot Plug" functions 1 x ATA133 IDE connector (supports 2 x IDE devices) 1 x Floppy connector 1 x Print Port header CPU/Chassis/Power FAN connector 24 pin ATX power connector 4 pin 12V power connector CD in header Front panel audio connector 3 x USB 2.0 headers (support 6 USB 2.0 ports) Funkcje specjalne: ASRock OC Tuner Intelligent Energy Saver Instant Boot ASRock Instant Flash ASRock OC DNA Hybrid Booster: CPU Frequency Stepless Control ASRock U-COP Boot Failure Guard (B.F.G.) ASRock AM2 Boost: ASRock Patented Technology to boost memory performance up to 12.5% Bios: 8Mb AMI Legal BIOS Supports "Plug and Play" ACPI 1.1 Compliance Wake Up Events Supports jumperfree SMBIOS 2.3.1 Support CPU, VCCM, NB Voltage Multi-adjustment Format plyty: micro ATX Wymiary: 24.4 cm x 20.8 cm « zwiń opis </opis>
+<socket>Socket AM2</socket>
+<typ_pamieci>DDR3</typ_pamieci>
+            <image_mini>http://img.nokaut.pl/bdk/90/1/216721.jpg</image_mini>
+            <image_medium>http://img.nokaut.pl/bdk/130/1/216721.jpg</image_medium>
+            <image_large>http://img.nokaut.pl/bdk/500/1/216721.jpg</image_large>
+            <rate>0.00</rate>
+            <thumbnail>http://img.nokaut.pl/bdk/90/1/216721.jpg</thumbnail>
+            <image>http://img.nokaut.pl/bdk/130/1/216721.jpg</image>
+        </item>
+        <item>
+            <id>590892527365751536</id>
+            <name>ASRock A770CrossFire</name>
+            <shop_count>42</shop_count>
+            <offer_count>42</offer_count>
+            <price_min>218,00</price_min>
+            <price_max>286,60</price_max>
+            <price_avg>250,93</price_avg>
+            <url>http://www.nokaut.pl/plyty-glowne/asrock-a770crossfire.html</url>
+<opis>Opis techniczny Kod Producenta : M3A770DE Typ gniazda procesora : Socket - AM3 Obsługiwane procesory : AM3: AMD Phenom? II X4 / X3 / X2 (poza 920 / 940), Athlon II X4 / X3 / X2 Producent Chipsetu : AMD Model Chipsetu : AMD 770 / AMD SB710 Magistrala : FSB 2600 MHz (5.2 GT/s) MHz Ilość gniazd pamięci DDR III : 4 szt. Obsługiwane typy pamięci : DDR3 1600/1333/1066/800 Dwukanałowa obsługa pamięci : Tak Maks. pojemność pamięci : 16 GB Gniazdo PCI-Express x16 : 2 szt. Gniazdo PCI-Express x1 : 1 szt. Gniazdo AGR / AGI : Nie Gniazdo PCI : 3 szt. Obsługa SLI : Nie Obsługa CrossFire : Tak Zintegrowana karta graficzna : Brak Zintegrowana karta dźwiękowa : 7.1 CH Windows? Vista? Premium Level HD Audio (VIA? VT1708S Audio Codec) Zintegrowana karta sieciowa : Gigabit LAN 10/100/1000 Mb/s Złącza IDE ATA : 1 szt. Złącza Serial ATA 2 : 4 szt. Złącza eSATA : 2 szt. Kontroler RAID ATA : Nie Kontroler RAID SATA : Tak Interfejs FDD : 1 szt. Gniazdo PS/2 : 2 szt. Gniazdo sieciowe RJ45 : 1 szt. Złącza USB zewnętrzne : 4 szt. Złącza USB wewnętrzne : 6 szt. Gniazda audio analogowe : 6 szt. Gniazda audio cyfrowe : 2 szt. Gniazda zasilania : 24 pin ATX, 8 pin 12V, CPU/Chassis/Power FAN Dodatkowe złącza wewnętrzne : 1 x IR, 1 x COM, 1 x HDMI_SPDIF, CD in, Front panel audio Standard : ATX Wymiary (wys x szer) : 30.5 cm x 20.8 cm mm Funkcje dodatkowe : ATI? CrossFireX? www : http://www.asrock.com/mb/overview.asp?Model=M3A770DE&amp;s= « zwiń opis </opis>
+<socket>Socket AM3</socket>
+<typ_pamieci>DDR3</typ_pamieci>
+            <image_mini>http://img.nokaut.pl/bdk/90/9/81019.jpg</image_mini>
+            <image_medium>http://img.nokaut.pl/bdk/130/9/81019.jpg</image_medium>
+            <image_large>http://img.nokaut.pl/bdk/500/9/81019.jpg</image_large>
+            <rate>0.00</rate>
+            <thumbnail>http://img.nokaut.pl/bdk/90/9/81019.jpg</thumbnail>
+            <image>http://img.nokaut.pl/bdk/130/9/81019.jpg</image>
+        </item>
+        <item>
+            <id>2406484139457955836</id>
+            <name>ASUS P5QPL-AM</name>
+            <shop_count>45</shop_count>
+            <offer_count>46</offer_count>
+            <price_min>192,01</price_min>
+            <price_max>239,00</price_max>
+            <price_avg>207,78</price_avg>
+            <url>http://www.nokaut.pl/plyty-glowne/asus-p5qpl-am.html</url>
+<opis>Plyta glowna Asus P5QPL-AM G41 GBLAN DDR2 SATA2 CH6 mATX Dane techniczne: Gniazdo procesora: LGA775 Typ procesora: Intel Celeron Intel Celeron Dual Core Intel Pentium Intel Pentium Dual Core Intel Core 2 Duo Intel Quad Core FSB: 800 MHz 1066 MHz 1333 MHz Zintegrowany procesor: nie Producent chipsetu: Intel Typ chipsetu: Intel G41 /ICH7 Rodzaj pamieci: DDR2 Liczba gniazd DDR2: 2 szt. Czestotliwosc szyny pamieci: 667 MHz 800 MHz 1066 MHz Max. wielkosc pamieci: 4 GB Zlacza PCI: 2 szt. Zlacza PCI-E 16x: 1 szt. Zlacza PCI-E 8x: Brak Zlacza PCI-E 4x: Brak Zlacza PCI-E 1x: 1 szt. Maksymalna ilosc urzadzen SATA: 4 Maksymalna ilosc urzadzen ATA: 2 RAID: nie Szczegolowe dane o interfejsach dyskow/napedow: 1 xUltraDMA 100 4 xSATA 3 Gb/s ports Zintegrowana karta graficzna: tak Typ zintegrowanej Karty graficznej: Zintegrowana grafika Intel Intel Media Accelerator (GMA X4500 ): Obsluga Microsoft DirectX 10, OpenGL 2.1 Obsluga RGB z max. Rozdzielczosc 2048 x 1536 75Hz Karta dzwiekowa: High Definition Audio 6-kanalowy kodek Popiera Jack wykrywa i Multi-Streaming teconologies Obsluga interfejsu S / PDIF Interfejs sieciowy: 10/100/1000 Mbit / s Zlacza USB na panelu tylnym: 4 Zlacza USB do wyprowadzenia z plyty: 4 FireWire (IEEE 1394): hasla Port COM: Tak Port LPT: Tak Na panelu tylnym Interfejsy: 1 x D-Sub 1 port rownolegly x 1 x PS / 2 klawiatury 1 x PS / 2 Mouse 1 x LAN (RJ45) port 4 x USB 2.0/1.1 1 x port COM 6-kanalowego dzwieku I / O Zlacza dostepne na plycie: 2 x zlacza USB 4 dodatkowych portow USB 2.0 1 x zlacze IDE 4 x zlacza SATA 1 x High Definition przedniego panelu audio Zlacze 1 x S / PDIF Zlacze Panel System 1 x zlacze wewnetrzny glosnik 1 x CD audio, zlacze 24-pinowe zlacze zasilania EATX 4-pinowe zlacze zasilania ATX 12V Funkcje specjalne: ASUS MyLogo 2 ASUS EZ Flash 2 ASUS CrashFree BIOS 3 ASUS Q-Fan Turbo Key AI NET2 Bios: Flash 8 MB ROM AMI BIOS, PnP, DMI2.0, WfM2.0, ACPI2.0, SMBIOS 2.5 Plyty Format: micro ATX Wymiary: 24,4 cm x 19,3 cm Akcesoria w zestawie: Instrukcja obslugi 1 x I / O Shield 1 x UltraDMA 133/100/66 1 x kabel SATA « zwiń opis </opis>
+<socket>Socket 775</socket>
+<typ_pamieci>DDR2</typ_pamieci>
+            <image_mini>http://img.nokaut.pl/bdk/90/2/147512.jpg</image_mini>
+            <image_medium>http://img.nokaut.pl/bdk/130/2/147512.jpg</image_medium>
+            <image_large>http://img.nokaut.pl/bdk/500/2/147512.jpg</image_large>
+            <rate>0.00</rate>
+            <thumbnail>http://img.nokaut.pl/bdk/90/2/147512.jpg</thumbnail>
+            <image>http://img.nokaut.pl/bdk/130/2/147512.jpg</image>
+        </item>
+        <item>
+            <id>1930197822769492091</id>
+            <name>ASUS P8H61-M LX2/SI Intel H61 LGA 1155  mATX</name>
+            <shop_count>8</shop_count>
+            <offer_count>8</offer_count>
+            <price_min>214,50</price_min>
+            <price_max>292,10</price_max>
+            <price_avg>268,67</price_avg>
+            <url>http://www.nokaut.pl/plyty-glowne/asus-p8h61-m-lx2-si-intel-h61-lga-1155-matx.html</url>
+<opis>Kod Producenta : P8H61-M LX2/SI Typ gniazda procesora : Socket - 1155 Obsługiwane procesory : Intel Core™ i7/Core™ i5/Core™ i3 Producent Chipsetu : Intel Model Chipsetu : Intel H61 Express Chipset Magistrala : - MHz Ilość gniazd pamięci DDR III : 2 szt. Obsługiwane typy pamięci : DDR3 1333/1066 Dwukanałowa obsługa pamięci : Tak Maks. pojemność pamięci : 8 GB Gniazdo PCI-Express x16 : 1 szt. Gniazdo PCI-Express x1 : 2 szt. Gniazdo AGR / AGI : Nie Gniazdo PCI : 1 szt. Obsługa SLI : Nie Obsługa CrossFire : Nie Zintegrowana karta graficzna : Tak Zintegrowana karta dźwiękowa : VIA VT1708S 8-CH. High Definition Audio Codec Zintegrowana karta sieciowa : Atheros AR8151 Gigabit LAN PCIe Controller Złącza Serial ATA 2 : 6 szt. Kontroler RAID ATA : Nie Kontroler RAID SATA : Nie Gniazdo D-Sub : 1 szt. Gniazdo DVI : 1 szt. Gniazdo PS/2 : 1 szt. Gniazdo sieciowe RJ45 : 1 szt. Złącza USB zewnętrzne : 6 szt. Złącza USB wewnętrzne : 4 szt. Gniazda audio analogowe : 3 szt. Gniazda zasilania : 1 x 24-Pin ATX, 1 x 4-Pin ATX 12V, 1 x CPU, 1 x Chassis Dodatkowe złącza wewnętrzne : 1 x Front Panel Audio, 1 x System Panel, 1 x SPDIF OUT, 1 x COM Standard : mikro ATX Wymiary (wys x szer) : 24.4 cm x 19.8 cm mm www : http : //www.asus.com/Motherboards/ www « zwiń opis </opis>
+<socket>Socket 1155</socket>
+<typ_pamieci>DDR3</typ_pamieci>
+            <image_mini>http://img.nokaut.pl/p/4c/0d/4c0dbb979d301ff35b5b2d4484765a2390x90.jpg</image_mini>
+            <image_medium>http://img.nokaut.pl/p/4c/0d/4c0dbb979d301ff35b5b2d4484765a23130x130.jpg</image_medium>
+            <image_large>http://img.nokaut.pl/p/4c/0d/4c0dbb979d301ff35b5b2d4484765a23500x500.jpg</image_large>
+            <rate>0.00</rate>
+            <thumbnail>http://img.nokaut.pl/p/4c/0d/4c0dbb979d301ff35b5b2d4484765a2390x90.jpg</thumbnail>
+            <image>http://img.nokaut.pl/p/4c/0d/4c0dbb979d301ff35b5b2d4484765a23130x130.jpg</image>
+        </item>
+        <item>
+            <id>6683608763212946777</id>
+            <name>GIGABYTE GA-H61M-D2-B3 Intel H61 LGA 155  mATX</name>
+            <shop_count>6</shop_count>
+            <offer_count>6</offer_count>
+            <price_min>211,55</price_min>
+            <price_max>227,31</price_max>
+            <price_avg>217,63</price_avg>
+            <url>http://www.nokaut.pl/plyty-glowne/gigabyte-ga-h61m-d2-b3-intel-h61-lga-155-matx.html</url>
+<opis>•GA-H61M-D2-B3.. •http://www.gigabyte.com/products/product-page.aspx?pid=3773#.. </opis>
+<socket>Brak informacji o sockecie</socket>
+<typ_pamieci>Brak informacji o typie pamieci</typ_pamieci>
+            <image_mini>http://img.nokaut.pl/p/68/93/6893d68809d98165d77b568b08c4944090x90.jpg</image_mini>
+            <image_medium>http://img.nokaut.pl/p/68/93/6893d68809d98165d77b568b08c49440130x130.jpg</image_medium>
+            <image_large>http://img.nokaut.pl/p/68/93/6893d68809d98165d77b568b08c49440500x500.jpg</image_large>
+            <rate>0.00</rate>
+            <thumbnail>http://img.nokaut.pl/p/68/93/6893d68809d98165d77b568b08c4944090x90.jpg</thumbnail>
+            <image>http://img.nokaut.pl/p/68/93/6893d68809d98165d77b568b08c49440130x130.jpg</image>
+        </item>
+        <item>
+            <id>1352527628034419635</id>
+            <name>Gigabyte GA-P61-USB3-B3</name>
+            <shop_count>4</shop_count>
+            <offer_count>4</offer_count>
+            <price_min>268,00</price_min>
+            <price_max>319,00</price_max>
+            <price_avg>292,35</price_avg>
+            <url>http://www.nokaut.pl/plyty-glowne/gigabyte-ga-p61-usb3-b3.html</url>
+<opis>"Producent procesora: Intel; Typ procesora: Core i3, Core i5, Core i7; Typ gniazda procesora: LGA1155; Obsługa technologii Hyper-Threading: Tak; Liczba gniazd procesorów: 1; Producent chipsetu: Intel; Typ chipsetu: P61; Częstotliwość szyny QPI/DMI: 5 GT/s; Rodzaj pamięci: DDR III; Typ pamięci: Non-ECC; Liczba gniazd DDR III: 2; Częstotliwość szyny pamięci: 1333 MHz, 1066 MHz, 800 MHz; Maksymalna wielkość pamięci: 16 GB; Zintegrowany układ VGA na płycie głównej: Nie; Obsługa układów VGA zintegrowanych w procesorach: Nie; Wbudowany układ dźwiękowy: Realtek ALC889; Układ LAN: Tak; Typ zintegrowanej karty sieciowej: 10/100/1000 Mbit/s; Bezprzewodowa karta sieciowa: Nie; Złącza PCI: 3; Złącza PCI-E 16x: 1; Złącza PCI-E 1x: 2; Złącza USB 2.0: 8; Złącza USB 3.0: 2; Dodatkowe informacje o portach USB 2.0/3.0: 4 x USB 2.0 (tylny panel), 4 x USB 2.0 (opcja), 2 x USB 3.0 (tylny panel); Złącza FireWire (IEEE 1394): 0 szt.; Złącza PS/2: 1; Maksymalna ilość urządzeń Serial ATA: 4 szt.; Szybkość interfejsu dysków Serial ATA: 300 MB/s; Format: ATX; Typ złącza zasilania ATX: 24-pin; Typ wtyczki zasilającej +12V: P4 (4-pin)" « zwiń opis </opis>
+<socket>Socket 1155</socket>
+<typ_pamieci>DDR3</typ_pamieci>
+            <image_mini>http://img.nokaut.pl/p/7b/0a/7b0a11663c7172171f8b13673e638f6090x90.jpg</image_mini>
+            <image_medium>http://img.nokaut.pl/p/7b/0a/7b0a11663c7172171f8b13673e638f60130x130.jpg</image_medium>
+            <image_large>http://img.nokaut.pl/p/7b/0a/7b0a11663c7172171f8b13673e638f60500x500.jpg</image_large>
+            <rate>0.00</rate>
+            <thumbnail>http://img.nokaut.pl/p/7b/0a/7b0a11663c7172171f8b13673e638f6090x90.jpg</thumbnail>
+            <image>http://img.nokaut.pl/p/7b/0a/7b0a11663c7172171f8b13673e638f60130x130.jpg</image>
+        </item>
+        <item>
+            <id>7691992718834454312</id>
+            <name>GIGABYTE GA-X58A-UD3R</name>
+            <shop_count>53</shop_count>
+            <offer_count>53</offer_count>
+            <price_min>822,94</price_min>
+            <price_max>1055,80</price_max>
+            <price_avg>925,74</price_avg>
+            <url>http://www.nokaut.pl/plyty-glowne/gigabyte-ga-x58a-ud3r.html</url>
+<opis>Klasa produktu: Płyta główna - desktop&amp;nbsp Producent procesora: Intel Typ procesora: Core i7, Core i7 Extreme Typ gniazda procesora: LGA1366 Obsługa technologii Hyper-Threading: Tak Liczba gniazd procesorów: 1 Producent chipsetu: Intel Typ chipsetu: X58 Częstotliwość szyny QPI/DMI: 6,4 GT/s, 4,8 GT/s Rodzaj pamięci: DDR III Typ pamięci: Non-ECC Liczba gniazd DDR III: 6 Częstotliwość szyny pamięci: 2200 MHz, 1333 MHz, 1066 MHz, 800 MHz, 1600 MHz Maksymalna wielkość pamięci: 24 GB Wbudowany układ VGA: Nie Obsługa układów VGA zintegrowanych w procesorach: Nie Wbudowany układ dźwiękowy: Realtek ALC889 Układ LAN: Tak Typ zintegrowanej karty sieciowej: 10/100/1000 Mbit/s Bezprzewodowa karta sieciowa: Nie Złącza PCI: 1 Złącza PCI-E 16x: 4 Złącza PCI-E 1x: 2 Złącza USB 2.0: 10 Złącza USB 3.0: 2 Dodatkowe informacje o portach USB 2.0/3.0: 6 x USB 2.0 (tylny panel), 4 x USB 2.0 (opcja), 2 x USB 3.0 (tylny panel) Złącza FireWire (IEEE 1394): 3 szt. Dodatkowe inforamcje o portach FireWire (IEEE1394): 2 x FireWire (IEEE 1394) [tylny panel], 1 x FireWire (IEEE 1394) [opcja] Złącza PS/2: 2 Układ RAID: 6xSATA, 2xSATA, 2xSATA Maksymalna ilość urządzeń ATA: 2 szt. Szybkość interfejsu dysków ATA: 133 MB/s Maksymalna ilość urządzeń Serial ATA: 10 szt. Szybkość interfejsu dysków Serial ATA: 300 MB/s, 600 MB/s Maksymalna ilość urządzeń FDD: 1 szt. Cechy dodatkowe: 2 x slot PCI-E 16x (standard) [16x mechanicznie, 16x elektrycznie], 2 x slot PCI-E 16x (standard) [16x mechanicznie, 8x elektrycznie], 2 x złącze eSATAII 3.0 Gb/s Format: ATX Typ złącza zasilania ATX: 24-pin Typ wtyczki zasilającej +12V: EPS12V Więcej informacji: Sprawdź szczegółową listę obsługiwanych procesorów [LINK], Sprawdź szczegółową listę obsługiwanych pamięci [LINK]Mimo dołożenia wszelkich starań nie gwarantujemy, że publikowane dane techniczne nie zawierają braków lub błędów. Ponieważ ew. błędne opisy nie mogą jednak być podstawą do roszczeń, w przypadku wątpliwości prosimy o kontakt z handlowcem przed podjęciem decyzji o zakupie. Kod producenta: P/N: GA-X58A-UD3R Gwarancja: Rękojmia 36 miesięcy « zwiń opis </opis>
+<socket>Socket 1366</socket>
+<typ_pamieci>DDR3</typ_pamieci>
+            <image_mini>http://img.nokaut.pl/bdk/90/0/197290.jpg</image_mini>
+            <image_medium>http://img.nokaut.pl/bdk/130/0/197290.jpg</image_medium>
+            <image_large>http://img.nokaut.pl/bdk/500/0/197290.jpg</image_large>
+            <rate>0.00</rate>
+            <thumbnail>http://img.nokaut.pl/bdk/90/0/197290.jpg</thumbnail>
+            <image>http://img.nokaut.pl/bdk/130/0/197290.jpg</image>
+        </item>
+        <item>
+            <id>4546202267492576600</id>
+            <name>EVGA Classified Super Record 2</name>
+            <shop_count>1</shop_count>
+            <offer_count>1</offer_count>
+            <price_min>2949,00</price_min>
+            <price_max>2949,00</price_max>
+            <price_avg>2949,00</price_avg>
+            <url>http://www.nokaut.pl/plyty-glowne/evga-classified-super-record-2.html</url>
+<opis>gniazdo procesora Socket 1366 obsługiwane typy procesorów Intel Xeon maks. ilość obsługiwanych procesorów 2 chipset Intel 5520 mostek południowy Intel ICH-10R obsługa technologii CrossFire tak obsługa technologii SLI tak rodzaj obsługiwanej pamięci DDR3 DIMM typ obsługiwanej pamięci DDR3-1333 (PC3-10600) dwukanałowa obsługa pamięci tak ilość gniazd pamięci 12 szt. maks. pojemność pamięci 49152 MB złącze AGP brak ilość złączy PCI 7 szt. standard kontrolera (liczba kanałów) Serial ATA III (2) Serial ATA II (6) ATA/133 (1) obsługa Raid tak zintegrowana karta sieciowa tak zintegrowana karta dźwiękowa tak kontrolery USB 2.0 USB 3.0 porty zewnętrzne Audio 2x USB 2x RJ45 1x PS/2 10x USB SPDIF out wtyczka zasilania ATX 24pin pin standard płyty HPTX « zwiń opis </opis>
+<socket>Socket 1366</socket>
+<typ_pamieci>DDR3</typ_pamieci>
+            <image_mini>http://img.nokaut.pl/p/31/7a/317af62a95854371cae8eb4bd8380a0f90x90.jpg</image_mini>
+            <image_medium>http://img.nokaut.pl/p/31/7a/317af62a95854371cae8eb4bd8380a0f130x130.jpg</image_medium>
+            <image_large>http://img.nokaut.pl/p/31/7a/317af62a95854371cae8eb4bd8380a0f500x500.jpg</image_large>
+            <rate>0.00</rate>
+            <thumbnail>http://img.nokaut.pl/p/31/7a/317af62a95854371cae8eb4bd8380a0f90x90.jpg</thumbnail>
+            <image>http://img.nokaut.pl/p/31/7a/317af62a95854371cae8eb4bd8380a0f130x130.jpg</image>
+        </item>
+        <item>
+            <id>4902334347480342319</id>
+            <name>ASUS P7P55D</name>
+            <shop_count>9</shop_count>
+            <offer_count>9</offer_count>
+            <price_min>350,00</price_min>
+            <price_max>419,00</price_max>
+            <price_avg>381,01</price_avg>
+            <url>http://www.nokaut.pl/plyty-glowne/asus-p7p55d.html</url>
+<opis>Kod Producenta P7P55D Typ gniazda procesora Socket - 1156 Obsługiwane procesory Intel Core™ i7/Core™ i5 (LGA1156) Producent Chipsetu Intel Model Chipsetu Intel P55 Express Chipset Magistrala -MHz Ilość gniazd pamięci DDR III 4szt. Obsługiwane typy pamięci DDR3 2133(O.C.)*/1600/1333/1066 MHz Dwukanałowa obsługa pamięci Tak Maks. pojemność pamięci 16GB Gniazdo PCI-Express x16 2szt. Gniazdo PCI-Express x1 2szt. Gniazdo AGR / AGI Nie Gniazdo PCI 3szt. Obsługa SLI Nie Obsługa CrossFire Tak Zintegrowana karta graficzna Brak Zintegrowana karta dźwiękowa VIA VT1828S 8-channel High Definition Audio CODEC Zintegrowana karta sieciowa Realtek 8112L Gigabit LAN Złącza IDE ATA 1szt. Złącza Serial ATA 2 7szt. Złącza eSATA 1szt. Kontroler RAID ATA Nie Kontroler RAID SATA Tak Gniazdo PS/2 2szt. Gniazdo sieciowe RJ45 1szt. Złącza USB zewnętrzne 8szt. Złącza USB wewnętrzne 6szt. Złącza FireWire zewnętrzne 1szt. Złącza FireWire wewnetrzne 1szt. Gniazda audio analogowe 6szt. Gniazda audio cyfrowe 1szt. Gniazda zasilania 24-pin ATX, 1 x 8-pin ATX 12V, 1 x CPU, 1 x Power, 2 x zasilanie wentylatorów Dodatkowe złącza wewnętrzne 1 x IEE1394a, 1 x COM, Front panel audio, 1 x S/PDIF Out, CD audio in, System Panel (Q-Connector) Standard ATX Wymiary (wys x szer) 30.5cm x 24.4cmmm Funkcje dodatkowe Obsługa ATI Quad-GPU CrossFireX™ Technology www www.asus.com/product.aspx?P_ID=RBA8CzWoopUlYRFZ « zwiń opis </opis>
+<socket>Socket 1156</socket>
+<typ_pamieci>DDR3</typ_pamieci>
+            <image_mini>http://img.nokaut.pl/bdk/90/4/154714.jpg</image_mini>
+            <image_medium>http://img.nokaut.pl/bdk/130/4/154714.jpg</image_medium>
+            <image_large>http://img.nokaut.pl/bdk/500/4/154714.jpg</image_large>
+            <rate>0.00</rate>
+            <thumbnail>http://img.nokaut.pl/bdk/90/4/154714.jpg</thumbnail>
+            <image>http://img.nokaut.pl/bdk/130/4/154714.jpg</image>
+        </item>
+        <item>
+            <id>5403257179285752566</id>
+            <name>ASUS M5A78L-M LX AMD 760G Soclet AM3+  mATX</name>
+            <shop_count>3</shop_count>
+            <offer_count>3</offer_count>
+            <price_min>178,75</price_min>
+            <price_max>183,64</price_max>
+            <price_avg>181,46</price_avg>
+            <url>http://www.nokaut.pl/plyty-glowne/asus-m5a78l-m-lx-amd-760g-soclet-am3-matx.html</url>
+<opis>• Typ gniazda procesora: Socket - AM3+ • Obsługiwane procesory: AMD AM3+ FX™/Phenom™ II/Athlon™ II/Sempron™ seria 100 (..) </opis>
+<socket>Socket AM3</socket>
+<typ_pamieci>Brak informacji o typie pamieci</typ_pamieci>
+            <image_mini>http://img.nokaut.pl/p/ab/73/ab731dfad57daa463fa0c5b46c92d21990x90.jpg</image_mini>
+            <image_medium>http://img.nokaut.pl/p/ab/73/ab731dfad57daa463fa0c5b46c92d219130x130.jpg</image_medium>
+            <image_large>http://img.nokaut.pl/p/ab/73/ab731dfad57daa463fa0c5b46c92d219500x500.jpg</image_large>
+            <rate>0.00</rate>
+            <thumbnail>http://img.nokaut.pl/p/ab/73/ab731dfad57daa463fa0c5b46c92d21990x90.jpg</thumbnail>
+            <image>http://img.nokaut.pl/p/ab/73/ab731dfad57daa463fa0c5b46c92d219130x130.jpg</image>
+        </item>
+        <item>
+            <id>8233699340168530221</id>
+            <name>GIGABYTE G1. Assasin Intel X58 LGA 1366</name>
+            <shop_count>31</shop_count>
+            <offer_count>31</offer_count>
+            <price_min>1792,00</price_min>
+            <price_max>2205,75</price_max>
+            <price_avg>2019,07</price_avg>
+            <url>http://www.nokaut.pl/plyty-glowne/gigabyte-g1-assasin-intel-x58-lga-1366.html</url>
+<opis>Opis techniczny Kod Producenta : G1.Assasin Typ gniazda procesora : Socket - 1366 Obsługiwane procesory : Intel? Core? i7 Producent Chipsetu : Intel Model Chipsetu : Intel? X58 + Intel? ICH10R Magistrala : 4.8GT/s, 6.4GT/s MHz Ilość gniazd pamięci DDR III : 6 szt. Obsługiwane typy pamięci : DDR3 2200/1333/1066/800 MHz Dwukanałowa obsługa pamięci : Tak Maks. pojemność pamięci : 24 GB Gniazdo PCI-Express x16 : 4 szt. Gniazdo PCI-Express x1 : 2 szt. Gniazdo AGR / AGI : Nie Gniazdo PCI : 1 szt. Obsługa SLI : Tak Obsługa CrossFire : Tak Zintegrowana karta graficzna : brak Zintegrowana karta dźwiękowa : Creative CA20K2 chip - High Definition Audio Zintegrowana karta sieciowa : 1 x Bigfoot Killer E2100 chip (10/100/1000 Mbit) Złącza Serial ATA 2 : 6 szt. Złącza Serial ATA 3 : 2 szt. Kontroler RAID ATA : Nie Kontroler RAID SATA : Tak Gniazdo PS/2 : 2 szt. Gniazdo sieciowe RJ45 : 1 szt. Złącza USB zewnętrzne : 8 szt. Złącza USB wewnętrzne : 4 szt. Gniazda audio analogowe : 5 szt. Gniazda audio cyfrowe : 2 szt. Gniazda zasilania : 1 x 24-pin ATX, 2 x 8-pin ATX 12V, 2 x 4-pin PCIe 12V, 1 x CPU, 1 x system, 3 x fan Dodatkowe złącza wewnętrzne : 1 x front panel, 1 x front panel audio, 1 x S/PDIF Out, 1 x clearing CMOS, 1 x Quick Boost, 1 x heatsink LED Standard : ATX Wymiary (wys x szer) : 34.5cm x 26.3cm mm Funkcje dodatkowe : Obsługa 3-Way/2-Way NVIDIA SLI, 4-Way/3-Way/2-Way ATI CrossFireX? www : http://www.gigabyte.com/products/product-page.aspx?pid=3752#sp « zwiń opis </opis>
+<socket>Socket 1366</socket>
+<typ_pamieci>DDR3</typ_pamieci>
+            <image_mini>http://img.nokaut.pl/p/f6/19/f619edc8928682d3129105954ce8de8e90x90.jpg</image_mini>
+            <image_medium>http://img.nokaut.pl/p/f6/19/f619edc8928682d3129105954ce8de8e130x130.jpg</image_medium>
+            <image_large>http://img.nokaut.pl/p/f6/19/f619edc8928682d3129105954ce8de8e500x500.jpg</image_large>
+            <rate>0.00</rate>
+            <thumbnail>http://img.nokaut.pl/p/f6/19/f619edc8928682d3129105954ce8de8e90x90.jpg</thumbnail>
+            <image>http://img.nokaut.pl/p/f6/19/f619edc8928682d3129105954ce8de8e130x130.jpg</image>
+        </item>
+        <item>
+            <id>8698664900659949718</id>
+            <name>Zestaw OC PRO EVGA SR2 Xeon 5606 2,7GHz</name>
+            <shop_count>1</shop_count>
+            <offer_count>1</offer_count>
+            <price_min>4920,00</price_min>
+            <price_max>4920,00</price_max>
+            <price_avg>4920,00</price_avg>
+            <url>http://www.nokaut.pl/plyty-glowne/zestaw-oc-pro-evga-sr2-xeon-5606-2-7ghz.html</url>
+<opis>Zestaw Oc 1.EVGA Classified SR-2 270-WS-W555 E1 2.Intel Xeon E5606 2,7ghz x2 szt 3.Gskill F3-12800CL9T-6GBNQ 2szt 4.Prolimatech Megahalems rev.B x2 szt Profile Oc ustawiane są w biosie Na poszczególne elementy zestawu obowiązuje pełna gwarancja Procesory Box 36m/Płyty główne 24/36m Pamięci wieczysta gwarancja Chłodzenie 24/36m Możliwośc zmiany poszczegółnych komponetów na życzenie klienta « zwiń opis </opis>
+<socket>Brak informacji o sockecie</socket>
+<typ_pamieci>Brak informacji o typie pamieci</typ_pamieci>
+            <image_mini>http://img.nokaut.pl/p/37/9a/379ae73ebf04460cee0ecf66c71aa9ed90x90.jpg</image_mini>
+            <image_medium>http://img.nokaut.pl/p/37/9a/379ae73ebf04460cee0ecf66c71aa9ed130x130.jpg</image_medium>
+            <image_large>http://img.nokaut.pl/p/37/9a/379ae73ebf04460cee0ecf66c71aa9ed500x500.jpg</image_large>
+            <rate>0.00</rate>
+            <thumbnail>http://img.nokaut.pl/p/37/9a/379ae73ebf04460cee0ecf66c71aa9ed90x90.jpg</thumbnail>
+            <image>http://img.nokaut.pl/p/37/9a/379ae73ebf04460cee0ecf66c71aa9ed130x130.jpg</image>
+        </item>
+        <item>
+            <id>3583650761718410027</id>
+            <name>Asus Sabertooth 990FX</name>
+            <shop_count>3</shop_count>
+            <offer_count>3</offer_count>
+            <price_min>609,00</price_min>
+            <price_max>649,00</price_max>
+            <price_avg>629,79</price_avg>
+            <url>http://www.nokaut.pl/plyty-glowne/asus-sabertooth-990fx.html</url>
+<opis>"Producent procesora: AMD; Typ procesora: Athlon II X2 (Dual-Core), Athlon II X3 (Triple-Core), Athlon II X4 (Quad-Core), Phenom II X2 Dual-Core, Phenom II X3 Triple-Core, Phenom II X4 Quad-Core, Phenom II X6 Six-Core, Sempron (Socket AM3); Typ gniazda procesora: Socket AM3+, Socket AM3; Obsługa technologii Hyper-Threading: Nie; Liczba gniazd procesorów: 1; Producent chipsetu: AMD; Typ chipsetu: 990FX; Częstotliwość szyny FSB: 2000 MHz; Rodzaj pamięci: DDR III; Typ pamięci: ECC, Non-ECC; Liczba gniazd DDR III: 4; Częstotliwość szyny pamięci: 1866 MHz, 1666 MHz, 1333 MHz, 1066 MHz; Maksymalna wielkość pamięci: 32 GB; Zintegrowany układ VGA na płycie głównej: Nie; Obsługa układów VGA zintegrowanych w procesorach: Nie; Wbudowany układ dźwiękowy: Realtek ALC892; Układ LAN: Tak; Typ zintegrowanej karty sieciowej: 10/100/1000 Mbit/s; Bezprzewodowa karta sieciowa: Nie; Złącza PCI: 1; Złącza PCI-E 16x: 4; Złącza PCI-E 1x: 1; Złącza USB 2.0: 14; Złącza USB 3.0: 4; Dodatkowe informacje o portach USB 2.0/3.0: 10 x USB 2.0 (tylny panel), 4 x USB 2.0 (opcja), 2 x USB 3.0 (tylny panel), 2 x USB 3.0 (opcja); Złącza FireWire (IEEE 1394): 2 szt.; Dodatkowe inforamcje o portach FireWire (IEEE1394): 1 x FireWire (IEEE 1394) [tylny panel], 1 x FireWire (IEEE 1394) [opcja]; Złącza PS/2: 1; Złącza eSATA: 2; Układ RAID: 6xSATA; Maksymalna ilość urządzeń Serial ATA: 8 szt.; Szybkość interfejsu dysków Serial ATA: 300 MB/s, 600 MB/s; Cechy dodatkowe: 2 x slot PCI-E 16x (standard) [16x mechanicznie, 16x elektrycznie], 1 x slot PCI-E 16x (standard) [16x mechanicznie, 8x elektrycznie], 1 x slot PCI-E 16x (standard) [16x mechanicznie, 4x elektrycznie]; Format: ATX; Typ złącza zasilania ATX: 24-pin;" « zwiń opis </opis>
+<socket>Socket AM3</socket>
+<typ_pamieci>DDR3</typ_pamieci>
+            <image_mini>http://img.nokaut.pl/p/e4/f1/e4f130ed5d76b4311d095d37be7054a190x90.jpg</image_mini>
+            <image_medium>http://img.nokaut.pl/p/e4/f1/e4f130ed5d76b4311d095d37be7054a1130x130.jpg</image_medium>
+            <image_large>http://img.nokaut.pl/p/e4/f1/e4f130ed5d76b4311d095d37be7054a1500x500.jpg</image_large>
+            <rate>0.00</rate>
+            <thumbnail>http://img.nokaut.pl/p/e4/f1/e4f130ed5d76b4311d095d37be7054a190x90.jpg</thumbnail>
+            <image>http://img.nokaut.pl/p/e4/f1/e4f130ed5d76b4311d095d37be7054a1130x130.jpg</image>
+        </item>
+        <item>
+            <id>7253350951656156074</id>
+            <name>ASUS MAXIMUS III GENE</name>
+            <shop_count>11</shop_count>
+            <offer_count>11</offer_count>
+            <price_min>607,02</price_min>
+            <price_max>869,50</price_max>
+            <price_avg>789,38</price_avg>
+            <url>http://www.nokaut.pl/plyty-glowne/asus-maximus-iii-gene.html</url>
+<opis>"Klasa produktu: Płyta główna - desktop ; Producent procesora: Intel; Typ procesora: Pentium (Socket LGA1156), Core i3, Core i5, Core i7; Typ gniazda procesora: LGA1156; Obsługa technologii Hyper-Threading: Tak; Liczba gniazd procesorów: 1; Producent chipsetu: Intel; Typ chipsetu: P55; Częstotliwość szyny QPI/DMI: 2,5 GT/s, 4,8 GT/s, 5,86 GT/s, 6,4 GT/s; Rodzaj pamięci: DDR III; Typ pamięci: Non-ECC; Liczba gniazd DDR III: 4; Częstotliwość szyny pamięci: 1600 MHz, 1333 MHz, 1066 MHz; Maksymalna wielkość pamięci: 16 GB; Wbudowany układ VGA: Nie; Układ LAN: Tak; Typ zintegrowanej karty sieciowej: 10/100/1000 Mbit/s; Bezprzewodowa karta sieciowa: Nie; Złącza PCI: 2; Złącza PCI-E 16x: 3; Złącza PCI-E 1x: 2; Złącza USB 2.0: 14; Dodatkowe informacje o portach USB 2.0/3.0: 8 x USB 2.0 (tylny panel), 5 x USB 2.0 (opcja), 1 x USB 2.0 (tylny panel) /ROG Connect/; Złącza FireWire (IEEE 1394): 2 szt.; Dodatkowe inforamcje o portach FireWire (IEEE1394): 1 x FireWire (IEEE 1394) [tylny panel], 1 x FireWire (IEEE 1394) [opcja]; Układ RAID: 6xSATA, 2xSATA; Maksymalna ilość urządzeń Serial ATA: 10 szt.; Szybkość interfejsu dysków Serial ATA: 300 MB/s; Cechy dodatkowe: 1 x złącze eSATAII 3.0 Gb/s, 2 x PCIe 2.0 x16 (red): single x16 mode / dual x8 mode, 1 x PCIe x16 (white): x4 mode, 2 x SATA 3.0 Gb/s port (Red): SPD_HDD1 + SPD_HDD2 (RAID 0,1), 2 x SATA 3.0 Gb/s port (White): SATA_ODD1 + SATA_ODD2, 6 x SATA 3.0 Gb/s port: Intel Matrix Storage Technology RAID 0,1,5,10, DDR3: 2133(O.C.)/2000(O.C.)/1800(O.C.), W zestawie: SupremeFX X-Fi discrete Audio Card (8-Ch High Definition Audio), W zestawie: moduł 2x USB2.0 + ESATA, 1 x PS/2 (klawiatura); Format: ATX; Typ złącza zasilania ATX: 24-pin; Typ wtyczki zasilającej +12V: P4 (4-pin), EPS12V" « zwiń opis </opis>
+<socket>Socket 1156</socket>
+<typ_pamieci>DDR3</typ_pamieci>
+            <image_mini>http://img.nokaut.pl/bdk/90/7/157097.jpg</image_mini>
+            <image_medium>http://img.nokaut.pl/bdk/130/7/157097.jpg</image_medium>
+            <image_large>http://img.nokaut.pl/bdk/500/7/157097.jpg</image_large>
+            <rate>0.00</rate>
+            <thumbnail>http://img.nokaut.pl/bdk/90/7/157097.jpg</thumbnail>
+            <image>http://img.nokaut.pl/bdk/130/7/157097.jpg</image>
+        </item>
+        <item>
+            <id>2668142740808996809</id>
+            <name>DELL GX270 SFF - SLIM micro ATX s.478 GAT I</name>
+            <shop_count>1</shop_count>
+            <offer_count>1</offer_count>
+            <price_min>99,00</price_min>
+            <price_max>99,00</price_max>
+            <price_avg>99,00</price_avg>
+            <url>http://www.nokaut.pl/plyty-glowne/dell-gx270-sff-slim-micro-atx-s-478-gat-i.html</url>
+<opis>Uszkodzona karta dźwiękowa, po zainstalowaniu nowej karty na slocie PCI, płyta pracuje poprawnie. Płyta główna DELL GX270 SLIM - SFF Gniazdo procesora Socket 478 Celeron oraz Pentium 4, ( Intel Pentium 4 i Celeron; firma Dell zapewnia możliwość późniejszego uaktualnienia mikroprocesora. Za pomocą programu konfiguracji systemu można ustawić mniejszą prędkość zapewniającą zgodność. ) Chipset płyty Intel 865G Szyna 400/533/800MHz (obsługuje HT ~ Hyper - Threading ) Pamięć SRAM o pojemności 128, 256, 512 KB, lub 1 MB z zapisem zwrotnym do pamięci operacyjnej, ośmiodrożna typu set associative, z potokowym trybem burst (w zależności od konfiguracji komputera) Pamięci DDRAM w 2 bankach Częstotliwość szyny pamięci: PC2100 266 MHz ~ PC2700 333 MHz ~ PC3200 400 MHz (dobre pamieci działają w ( Dual - Channel ) komputer typu Small Form-Factor Karta muzyczna zintegrowana typ AC97 Konwersja stereo 16-bitowa analogowo-cyfrowa; 20-bitowa cyfrowo-analogowana Karta graficzna jest zintegrowana 96 MB lub karta rozszerzeń na złączu AGP tryby 8x / 4x przy 1,5 V, 172 styki, 32 Bity, 66 MHz Karta sieciowa zintegrowana karta sieciowa o przepustowości 1 Gb/s z obsługą technologii ASF 1.0 określonej przez standard DMTF Możliwość komunikacji przy szybkościach 10/100/1000 Mb/s * Zielona — Istnieje dobre połączenie pomiędzy komputerem a siecią o przepustowości 10 Mb/s. * Pomarańczowa — Istnieje dobre połączenie pomiędzy komputerem a siecią o przepustowości 100 Mb/s. * Żółta — Istnieje dobre połączenie pomiędzy komputerem a siecią o przepustowości 1 Gb (lub 1000 Mb/s). Wyłączona — Komputer nie wykrywa fizycznego połączenia z siecią lub wyłączono kontroler w programie konfiguracji systemu. Wyjścia: 1x LPT Równoległe ~ złącze 25-otworowe (dwukierunkowe), 1x COM Szeregowe ~ złącze 9-pinowe; zgodne z 16550C, 6x USB złącza zgodne z USB 2.0 ( dodatkowe wyjście na płycie ~ dwa na przednim panelu ), 2x PS/2 ( klawiatura i mysz ) ~ złącze 6-pinowe mini-DIN, 1x VGA Grafika ~ złącze 15-otworowe, 3x dźwięk złącza line-in, line-out i mikrofonu; jedno złącze na przednim panelu dla słuchawek 1x karta sieciowa złącze RJ45 Złącza płyty sytemowej: 1x PCI 2.2 rozmiar złącza 120 styków szerokość danych złącza (maksymalna) 32 bity, 2x IDE złącze 40-pinowe obsługuje dyski twarde ATA 33/66/100 1x SATA złącze 7-pinowe, 1x FDD ~ Napęd dyskietek złącze 34-pinowe, 1x Interfejs dźwięku napędu CD, 1x Szeregowe złącze 12-pinowe dla opcjonalnej drugiej karty portu szeregowego, 1x Wentylator złącze 3-pinowe, 1x Audio na panelu przednim złącze 10-pinowe, 1x Panel przedni złącze 34-pinowe Stan bardzo dobry, używana, przetestowana w 100%, dedykowana do komputerów GX270 SFF slim W zestawie blacha montażowa Format płyty: m ATX F.VAT cena Brutto « zwiń opis </opis>
+<socket>Socket 478</socket>
+<typ_pamieci>DDR3</typ_pamieci>
+            <image_mini>http://img.nokaut.pl/p/bb/ab/bbabeae1563941b4d243a81d619dd60590x90.jpg</image_mini>
+            <image_medium>http://img.nokaut.pl/p/bb/ab/bbabeae1563941b4d243a81d619dd605130x130.jpg</image_medium>
+            <image_large>http://img.nokaut.pl/p/bb/ab/bbabeae1563941b4d243a81d619dd605500x500.jpg</image_large>
+            <rate>0.00</rate>
+            <thumbnail>http://img.nokaut.pl/p/bb/ab/bbabeae1563941b4d243a81d619dd60590x90.jpg</thumbnail>
+            <image>http://img.nokaut.pl/p/bb/ab/bbabeae1563941b4d243a81d619dd605130x130.jpg</image>
+        </item>
+        <item>
+            <id>5342215336559129082</id>
+            <name>Płyta MSI 870-C45 /AMD 770+SB710/DDR3/GB LAN/AM3/ATX</name>
+            <shop_count>10</shop_count>
+            <offer_count>10</offer_count>
+            <price_min>230,42</price_min>
+            <price_max>273,29</price_max>
+            <price_avg>249,21</price_avg>
+            <url>http://www.nokaut.pl/plyty-glowne/plyta-msi-870-c45-amd-770-sb710-ddr3-gb-lan-am3-atx.html</url>
+<opis>Opis ogólny: MSI 870-C45Chipset płyty głównej: AMD 770 + SB710Gniazdo procesora: Socket-AM3Obsługiwane typy procesorów: AMD Phenom™ II X6, AMD Athlon II X2, AMD Athlon II X3, AMD Phenom™ II X2, AMD Phenom™ II X4, AMD Sempron seria 100, AMD Athlon II X4, AMD Phenom™ II X3Obsługiwane FSB / QPI / HT: HT do 5200 MT/s (HT 3.0)Obsługa Hyper Threading: nieObsługa Hyper Transport: takIlość złącz pamięci DDR3 (240-pin): 4Maksymalna wielkość pamięci: 16 GBObsługiwane typy pamięci: DDR3-1333, DDR3-800, DDR3-1066, DDR3-1600 (OC)Obsługa Dual Channel RAM: takWbudowany kontroler ATA - liczba urządzeń: 2Wbudowany kontroler S-ATA II - liczba urządzeń: 6Wbudowany kontroler RAID S-ATA II - liczba urz.: 6Wbudowany kontroler RAID S-ATA II - konfiguracja: RAID 0, 1, 10 lub JBOD Wbudowane Audio: 8 Ch Realtek ALC889Złącza PCI Express x16: 1Złącza PCI Express x1: 2Złącza PCI 32-bit/33MHz: 3Wbudowany LAN 100Mb - liczba portów: 0Wbudowany LAN 1Gb - liczba portów: 1Porty USB 2.0: maks. 12 : 6 na panelu tylnym + 6 na płycie (3 złącza)Porty USB 3.0: BrakPozostałe złącza (mysz/klawiatuta/LPT/serial): 1/1/0/1Gniazdo zasilania: ATX (24-pin) + ATX12V (4-pin)Format płyty: ATXWymiary [G x S x W]: 305 x 210Opakowanie: BOXInformacje dodatkowe: Obsługa pamięci DDR3-1600 w trybie OC, 1x wewnętrzne złącze S/PDIF, Czujnik otwarcia obudowy « zwiń opis </opis>
+<socket>Socket AM3</socket>
+<typ_pamieci>DDR3</typ_pamieci>
+            <image_mini>http://img.nokaut.pl/p/64/66/646687bdcd957b248bbf32f8bdd1dc9f90x90.jpg</image_mini>
+            <image_medium>http://img.nokaut.pl/p/64/66/646687bdcd957b248bbf32f8bdd1dc9f130x130.jpg</image_medium>
+            <image_large>http://img.nokaut.pl/p/64/66/646687bdcd957b248bbf32f8bdd1dc9f500x500.jpg</image_large>
+            <rate>0.00</rate>
+            <thumbnail>http://img.nokaut.pl/p/64/66/646687bdcd957b248bbf32f8bdd1dc9f90x90.jpg</thumbnail>
+            <image>http://img.nokaut.pl/p/64/66/646687bdcd957b248bbf32f8bdd1dc9f130x130.jpg</image>
+        </item>
+        <item>
+            <id>8920951834351443550</id>
+            <name>ASUS P7H55-M</name>
+            <shop_count>5</shop_count>
+            <offer_count>5</offer_count>
+            <price_min>261,72</price_min>
+            <price_max>338,00</price_max>
+            <price_avg>307,88</price_avg>
+            <url>http://www.nokaut.pl/plyty-glowne/asus-p7h55-m.html</url>
+<opis>Tabela parametryczna Gniazdo procesora LGA1156 Typ procesora Intel Core i5 Intel Core i3 Intel Core i7 Intel Xeon Zintegrowany procesor nie Producent chipsetu Intel Typ chipsetu Intel H55 Rodzaj pamięci DDR3 Liczba gniazd DDR3 4 szt. Częstotliwość szyny pamięci 1066 MHz 1333 MHz Max. wielkość pamięci 16 GB Złącza PCI 2 szt. Złącza PCI-E 16x 1 szt. Złącza PCI-E 8x Brak Złącza PCI-E 4x Brak Złącza PCI-E 1x 1 szt. Złącze AGP Nie Maksymalna ilość urządzeń SATA 6 Maksymalna ilość urządzeń ATA 1 Zintegrowana karta graficzna tak Typ zintegrowanej karty graficznej Multi-VGA output support: HDMI, DVI-D and RGB ports Supports Microsoft DirectX 10 D-SUB with max. resolution : 2048 X 1536 @75Hz DVI with max. resolution : 1920 X 1200 @60Hz HDMI with max. resolution : 1920 X 1200 @60Hz Karta dźwiękowa VIA VT1708S 8-Ch. High Definition Audio CODEC - Support Multi-streaming Interfejs sieciowy 10/100/1000 Mbit/s Złącza USB na tylnym panelu 6 Złącza USB do wyprowadzenia z płyty 3 Liczba portów USB 3.0 0 FireWire (IEEE 1394) nie Port COM Tak Port LPT Nie Interfejsy na tylnym panelu 1 x PS/2 Keyboard 1 x PS/2 Mouse 1 x Com Port 1 x D-Sub 1 x DVI 1 x HDMI 1 x RJ45 port 6 x USB 2.0/1.1 3 x Audio Jacks Złącza dostępne na płycie 3 x USB connectors support additional 6 USB ports 6 x SATA connectors 1 x S/PDIF out header 1 x COM connector 1 x CPU Fan connector 1 x Chassis Fan connector 1 x Front panel audio connector 1 x Chassis Intrusion connector 1 x 24-pin ATX Power connector 1 x 4-pin ATX 12V Power connector 1 x System panel connector 1 x IDE connector 1 x TPM header 1 x LPT Header Bios 64Mb Flash ROM, AMI BIOS, PnP, DMI v2.0, WfM2.0, SMBIOS v2.5, ACPI v2.0a Format płyty micro ATX Wymiary 24.4 cm x 24.4 cm Akcesoria w zestawie 1 x I/O shield 2 x SATA cable 1 x IDE cable 1 x Support DVD 1 x User Manual Gwarancja: 3 lata « zwiń opis </opis>
+<socket>Socket 1156</socket>
+<typ_pamieci>DDR3</typ_pamieci>
+            <image_mini>http://img.nokaut.pl/bdk/90/5/212505.jpg</image_mini>
+            <image_medium>http://img.nokaut.pl/bdk/130/5/212505.jpg</image_medium>
+            <image_large>http://img.nokaut.pl/bdk/500/5/212505.jpg</image_large>
+            <rate>0.00</rate>
+            <thumbnail>http://img.nokaut.pl/bdk/90/5/212505.jpg</thumbnail>
+            <image>http://img.nokaut.pl/bdk/130/5/212505.jpg</image>
+        </item>
+	</items>
+</success>

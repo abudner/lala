@@ -1,0 +1,55 @@
+<script type="text/javascript">
+$("#suma").html("LOL");
+$.Calculation.setDefaults({
+	// a regular expression for detecting European-style formatted numbers
+	reNumbers: /(-?\$?)(\d+(\.\d{3})*(,\d{1,})?|,\d{1,})/g
+	// define a procedure to convert the string number into an actual usable number
+	, cleanseNumber: function (v){
+		// cleanse the number one more time to remove extra data (like commas and dollar signs)
+		// use this for European numbers: v.replace(/[^0-9,\-]/g, "").replace(/,/g, ".")
+		return v.replace(/[^0-9,\-]/g, "").replace(/,/g, ".");
+	}
+})
+
+$("input[id$='cena']").sum("keyup", "#suma");
+</script>
+<%= form_for(@komp) do |f| %>
+  <% if @komp.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@komp.errors.count, "error") %> prohibited this komp from being saved:</h2>
+
+      <ul>
+      <% @komp.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+<table border="1" cellpadding="0" cellspacing="0">
+<tr><td><select id="sel_sock" name="sel_sock" onchange="select_sock(this.value);">
+<option selected="selected" value="nie"></option>
+<option value="775">LGA 775</option>
+<option value="AM2">AM2</option>
+</select>
+</td><td>Płyta Główna:</td><td><%= f.select(:plyta,  {:" --- WYBIERZ SOCKET ! ---" => 'lol'} , {}, {:class => "sock_depend", :onchange => "zmiana(selectedIndex, 'plyta_cena', 'plyta');"}) %></td><td class="sock_dep_price" id="plyta_cena"></td></tr>
+<tr><td></td><td>Procesor:</td><td><%= f.select(:procesor,  {:" --- WYBIERZ SOCKET ! ---" => 'lol'} , {}, {:class => "sock_depend", :onchange => "zmiana(selectedIndex, 'procesor_cena', 'procesor');"}) %></td><td class="sock_dep_price" id="procesor_cena"></td></tr>
+<tr><td></td><td>Pamięć:</td><td><%= f.select(:pamiec,  {:" --- WYBIERZ SOCKET ! ---" => 'lol'} , {}, {:class => "sock_depend", :onchange => "zmiana(selectedIndex, 'pamiec_cena', 'pamiec');"}) %></td><td class="sock_dep_price" id="pamiec_cena"></td></tr>
+<tr><td></td><td>Pamięć2:</td><td><%= f.select(:pamiec2,  {:" --- WYBIERZ SOCKET ! ---" => 'lol'} , {}, {:class => "sock_depend", :onchange => "zmiana(selectedIndex, 'pamiec2_cena', 'pamiec2');"}) %></td><td class="sock_dep_price" id="pamiec2_cena"></td></tr>
+<tr><td></td><td>Karta graficzna:</td><td><%= f.select(:karta_graf, {}, {}, {:onchange => "zmiana(selectedIndex, 'karta_graf_cena', 'karta_graf');"}) %></td><td id="karta_graf_cena"></td></tr>
+<tr><td></td><td>Dysk:</td><td><%= f.select(:dysk, {}, {}, {:onchange => "zmiana(selectedIndex, 'dysk_cena', 'dysk');"}) %></td><td id="dysk_cena"></td></tr>
+<tr><td></td><td>Dysk2:</td><td><%= f.select(:dysk2, {}, {}, {:onchange => "zmiana(selectedIndex, 'dysk2_cena', 'dysk2');"}) %></td><td id="dysk2_cena"></td></tr>
+<tr><td></td><td>Dysk3:</td><td><%= f.select(:dysk3, {}, {}, {:onchange => "zmiana(selectedIndex, 'dysk3_cena', 'dysk3');"}) %></td><td id="dysk3_cena"></td></tr>
+<tr><td></td><td>Obudowa:</td><td><%= f.select(:obudowa, {}, {}, {:onchange => "zmiana(selectedIndex, 'obudowa_cena', 'obudowa');"}) %></td><td id="obudowa_cena"></td></tr>
+<tr><td></td><td>Zasilacz:</td><td><%= f.select(:zasilacz, {}, {}, {:onchange => "zmiana(selectedIndex, 'zasilacz_cena', 'zasilacz');"}) %></select></td><td id="zasilacz_cena"></td></tr>
+<tr><td></td><td>Napęd:</td><td><%= f.select(:naped, {}, {}, {:onchange => "zmiana(selectedIndex, 'naped_cena', 'naped');"}) %></td><td id="naped_cena"></td></tr>
+<tr><td></td><td>Karta muzyczna:</td><td><%= f.select(:karta_muz, {}, {}, {:onchange => "zmiana(selectedIndex, 'karta_muz_cena', 'karta_muz');"}) %></td><td id="karta_muz_cena"></td></tr>
+<tr><td></td><td>Mysz:</td><td><%= f.select(:mysz, {}, {}, {:onchange => "zmiana(selectedIndex, 'mysz_cena', 'mysz');"}) %></td><td id="mysz_cena"></td></tr>
+<tr><td></td><td>Klawiatura:</td><td><%= f.select(:klawiatura, {}, {}, {:onchange => "zmiana(selectedIndex, 'klawiatura_cena', 'klawiatura');"}) %></td><td id="klawiatura_cena"></td></tr>
+<tr><td colspan="3" align="right">Suma</td><td id="suma"></td></tr>
+
+</table>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+
+<% end %>
